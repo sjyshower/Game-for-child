@@ -1,0 +1,6914 @@
+[
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_難(1)",
+    "question": "「難」忘 的注音是？",
+    "speakText": "什麼忘",
+    "options": [
+      "ㄋㄢˊ",
+      "ㄋㄢˋ",
+      "ㄌㄢˊ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄋㄢˊ」！(來源：第一課_難(1))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_難(2)",
+    "question": "艱「難」 的注音是？",
+    "speakText": "艱什麼",
+    "options": [
+      "ㄋㄢˊ",
+      "ㄋㄢˋ",
+      "ㄋㄢ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄋㄢˊ」！(來源：第一課_難(2))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_難(3)",
+    "question": "「難」得 的注音是？",
+    "speakText": "什麼得",
+    "options": [
+      "ㄋㄢˊ",
+      "ㄋㄢˋ",
+      "ㄌㄢˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄋㄢˊ」！(來源：第一課_難(3))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_難(4)",
+    "question": "避「難」 的注音是？",
+    "speakText": "避什麼",
+    "options": [
+      "ㄋㄢˋ",
+      "ㄋㄢˊ",
+      "ㄌㄢˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄋㄢˋ」！(來源：第一課_難(4))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_難(5)",
+    "question": "空「難」 的注音是？",
+    "speakText": "空什麼",
+    "options": [
+      "ㄋㄢˋ",
+      "ㄋㄢˊ",
+      "ㄋㄢ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄋㄢˋ」！(來源：第一課_難(5))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_難(6)",
+    "question": "「難」民 的注音是？",
+    "speakText": "什麼民",
+    "options": [
+      "ㄋㄢˋ",
+      "ㄋㄢˊ",
+      "ㄌㄢˊ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄋㄢˋ」！(來源：第一課_難(6))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_難(7)",
+    "question": "這是一次「難」忘的校外教學",
+    "speakText": "這是一次什麼忘的校外教學",
+    "options": [
+      "ㄋㄢˊ",
+      "ㄋㄢˋ",
+      "ㄋㄢ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄋㄢˊ」！(來源：第一課_難(7))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_難(8)",
+    "question": "登山隊走過艱「難」的山路",
+    "speakText": "登山隊走過艱什麼的山路",
+    "options": [
+      "ㄋㄢˊ",
+      "ㄋㄢˋ",
+      "ㄌㄢˊ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄋㄢˊ」！(來源：第一課_難(8))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_難(9)",
+    "question": "今天是「難」得的好天氣",
+    "speakText": "今天是什麼得的好天氣",
+    "options": [
+      "ㄋㄢˊ",
+      "ㄋㄢˋ",
+      "ㄌㄢˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄋㄢˊ」！(來源：第一課_難(9))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_難(10)",
+    "question": "這道數學題目一點也不「難」",
+    "speakText": "這道數學題目一點也不什麼",
+    "options": [
+      "ㄋㄢˊ",
+      "ㄋㄢˋ",
+      "ㄋㄢ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄋㄢˊ」！(來源：第一課_難(10))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_難(11)",
+    "question": "地震發生時要趕快去避「難」",
+    "speakText": "地震發生時要趕快去避什麼",
+    "options": [
+      "ㄋㄢˋ",
+      "ㄋㄢˊ",
+      "ㄌㄢˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄋㄢˋ」！(來源：第一課_難(11))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_難(12)",
+    "question": "我們要幫助無家可歸的「難」民",
+    "speakText": "我們要幫助無家可歸的什麼民",
+    "options": [
+      "ㄋㄢˋ",
+      "ㄋㄢˊ",
+      "ㄋㄢ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄋㄢˋ」！(來源：第一課_難(12))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_難(13)",
+    "question": "火災是一場可怕的災「難」",
+    "speakText": "火災是一場可怕的災什麼",
+    "options": [
+      "ㄋㄢˋ",
+      "ㄋㄢˊ",
+      "ㄌㄢˊ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄋㄢˋ」！(來源：第一課_難(13))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_難(14)",
+    "question": "大「難」臨頭時更要冷靜",
+    "speakText": "大什麼臨頭時更要冷靜",
+    "options": [
+      "ㄋㄢˋ",
+      "ㄋㄢˊ",
+      "ㄌㄢˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄋㄢˋ」！(來源：第一課_難(14))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_難(15)",
+    "question": "哪一個「難」字讀作「ㄋㄢˋ」？",
+    "speakText": "哪一個難字讀作難",
+    "options": [
+      "避難",
+      "難忘",
+      "難得"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「避難」！(來源：第一課_難(15))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_難(16)",
+    "question": "哪一個「難」字讀作「ㄋㄢˊ」？",
+    "speakText": "哪一個難字讀作難",
+    "options": [
+      "艱難",
+      "空難",
+      "難民"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「艱難」！(來源：第一課_難(16))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_為(17)",
+    "question": "「為」何 的注音是？",
+    "speakText": "什麼何",
+    "options": [
+      "ㄨㄟˋ",
+      "ㄨㄟˊ",
+      "ㄨㄟˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄨㄟˋ」！(來源：第二課_為(17))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_為(18)",
+    "question": "因「為」 的注音是？",
+    "speakText": "因什麼",
+    "options": [
+      "ㄨㄟˋ",
+      "ㄨㄟˊ",
+      "ㄨㄟ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄨㄟˋ」！(來源：第二課_為(18))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_為(19)",
+    "question": "「為」難 的注音是？",
+    "speakText": "什麼難",
+    "options": [
+      "ㄨㄟˊ",
+      "ㄨㄟˋ",
+      "ㄨㄟˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄨㄟˊ」！(來源：第二課_為(19))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_為(20)",
+    "question": "行「為」 的注音是？",
+    "speakText": "行什麼",
+    "options": [
+      "ㄨㄟˊ",
+      "ㄨㄟˋ",
+      "ㄨㄟ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄨㄟˊ」！(來源：第二課_為(20))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_為(21)",
+    "question": "你「為」何在這裡哭泣呢？",
+    "speakText": "你什麼何在這裡哭泣呢",
+    "options": [
+      "ㄨㄟˋ",
+      "ㄨㄟˊ",
+      "ㄨㄟˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄨㄟˋ」！(來源：第二課_為(21))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_為(22)",
+    "question": "因「為」下雨所以運動會延期",
+    "speakText": "因什麼下雨所以運動會延期",
+    "options": [
+      "ㄨㄟˋ",
+      "ㄨㄟˊ",
+      "ㄨㄟ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄨㄟˋ」！(來源：第二課_為(22))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_為(23)",
+    "question": "媽媽「為」了我們辛苦準備晚餐",
+    "speakText": "媽媽什麼了我們辛苦準備晚餐",
+    "options": [
+      "ㄨㄟˋ",
+      "ㄨㄟˊ",
+      "ㄨㄟˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄨㄟˋ」！(來源：第二課_為(23))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_為(24)",
+    "question": "你「為」什麼不吃青菜呢？",
+    "speakText": "你什麼什麼不吃青菜呢",
+    "options": [
+      "ㄨㄟˋ",
+      "ㄨㄟˊ",
+      "ㄨㄟ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄨㄟˋ」！(來源：第二課_為(24))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_為(25)",
+    "question": "不要提出太過分的要求讓她「為」難",
+    "speakText": "不要提出太過分的要求讓她什麼難",
+    "options": [
+      "ㄨㄟˊ",
+      "ㄨㄟˋ",
+      "ㄨㄟˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄨㄟˊ」！(來源：第二課_為(25))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_為(26)",
+    "question": "在走廊奔跑是危險的行「為」",
+    "speakText": "在走廊奔跑是危險的行什麼",
+    "options": [
+      "ㄨㄟˊ",
+      "ㄨㄟˋ",
+      "ㄨㄟ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄨㄟˊ」！(來源：第二課_為(26))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_為(27)",
+    "question": "大家選他作「為」我們班的班長",
+    "speakText": "大家選他作什麼我們班的班長",
+    "options": [
+      "ㄨㄟˊ",
+      "ㄨㄟˋ",
+      "ㄨㄟˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄨㄟˊ」！(來源：第二課_為(27))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_為(28)",
+    "question": "毛毛蟲變「為」美麗的蝴蝶",
+    "speakText": "毛毛蟲變什麼美麗的蝴蝶",
+    "options": [
+      "ㄨㄟˊ",
+      "ㄨㄟˋ",
+      "ㄨㄟ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄨㄟˊ」！(來源：第二課_為(28))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_為(29)",
+    "question": "幫助別人是一件大有可「為」的事",
+    "speakText": "幫助別人是一件大有可什麼的事",
+    "options": [
+      "ㄨㄟˊ",
+      "ㄨㄟˋ",
+      "ㄨㄟˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄨㄟˊ」！(來源：第二課_為(29))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_為(30)",
+    "question": "老師總是「為」學生著想",
+    "speakText": "老師總是什麼學生著想",
+    "options": [
+      "ㄨㄟˋ",
+      "ㄨㄟˊ",
+      "ㄨㄟ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄨㄟˋ」！(來源：第二課_為(30))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_為(31)",
+    "question": "哪一個「為」字讀作「ㄨㄟˋ」？",
+    "speakText": "哪一個為字讀作為",
+    "options": [
+      "因為",
+      "為難",
+      "行為"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「因為」！(來源：第二課_為(31))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_為(32)",
+    "question": "哪一個「為」字讀作「ㄨㄟˊ」？",
+    "speakText": "哪一個為字讀作為",
+    "options": [
+      "行為",
+      "為何",
+      "因為"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「行為」！(來源：第二課_為(32))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_轉(33)",
+    "question": "「轉」達 的注音是？",
+    "speakText": "什麼達",
+    "options": [
+      "ㄓㄨㄢˇ",
+      "ㄓㄨㄢˋ",
+      "ㄗㄨㄢˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄓㄨㄢˇ」！(來源：第二課_轉(33))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_轉(34)",
+    "question": "「轉」告 的注音是？",
+    "speakText": "什麼告",
+    "options": [
+      "ㄓㄨㄢˇ",
+      "ㄓㄨㄢˋ",
+      "ㄗㄨㄢˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄓㄨㄢˇ」！(來源：第二課_轉(34))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_轉(35)",
+    "question": "打「轉」 的注音是？",
+    "speakText": "打什麼",
+    "options": [
+      "ㄓㄨㄢˋ",
+      "ㄓㄨㄢˇ",
+      "ㄗㄨㄢˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄓㄨㄢˋ」！(來源：第二課_轉(35))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_轉(36)",
+    "question": "「轉」圈 的注音是？",
+    "speakText": "什麼圈",
+    "options": [
+      "ㄓㄨㄢˋ",
+      "ㄓㄨㄢˇ",
+      "ㄗㄨㄢˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄓㄨㄢˋ」！(來源：第二課_轉(36))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_轉(37)",
+    "question": "請幫我把這封信「轉」達給老師",
+    "speakText": "請幫我把這封信什麼達給老師",
+    "options": [
+      "ㄓㄨㄢˇ",
+      "ㄓㄨㄢˋ",
+      "ㄗㄨㄢˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄓㄨㄢˇ」！(來源：第二課_轉(37))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_轉(38)",
+    "question": "哥哥「轉」告我明天要帶水彩筆",
+    "speakText": "哥哥什麼告我明天要帶水彩筆",
+    "options": [
+      "ㄓㄨㄢˇ",
+      "ㄓㄨㄢˋ",
+      "ㄗㄨㄢˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄓㄨㄢˇ」！(來源：第二課_轉(38))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_轉(39)",
+    "question": "過了紅綠燈後請向左「轉」彎",
+    "speakText": "過了紅綠燈後請向左什麼彎",
+    "options": [
+      "ㄓㄨㄢˇ",
+      "ㄓㄨㄢˋ",
+      "ㄗㄨㄢˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄓㄨㄢˇ」！(來源：第二課_轉(39))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_轉(40)",
+    "question": "同學的關心讓主角「轉」變了心情",
+    "speakText": "同學的關心讓主角什麼變了心情",
+    "options": [
+      "ㄓㄨㄢˇ",
+      "ㄓㄨㄢˋ",
+      "ㄗㄨㄢˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄓㄨㄢˇ」！(來源：第二課_轉(40))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_轉(41)",
+    "question": "小狗高興得在原地一直打「轉」",
+    "speakText": "小狗高興得在原地一直打什麼",
+    "options": [
+      "ㄓㄨㄢˋ",
+      "ㄓㄨㄢˇ",
+      "ㄗㄨㄢˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄓㄨㄢˋ」！(來源：第二課_轉(41))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_轉(42)",
+    "question": "妹妹穿著裙子開心地「轉」圈圈",
+    "speakText": "妹妹穿著裙子開心地什麼圈圈",
+    "options": [
+      "ㄓㄨㄢˋ",
+      "ㄓㄨㄢˇ",
+      "ㄗㄨㄢˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄓㄨㄢˋ」！(來源：第二課_轉(42))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_轉(43)",
+    "question": "彩色風車在風中飛快地旋「轉」",
+    "speakText": "彩色風車在風中飛快地旋什麼",
+    "options": [
+      "ㄓㄨㄢˋ",
+      "ㄓㄨㄢˇ",
+      "ㄗㄨㄢˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄓㄨㄢˋ」！(來源：第二課_轉(43))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_轉(44)",
+    "question": "地球每天都不停地自「轉」",
+    "speakText": "地球每天都不停地自什麼",
+    "options": [
+      "ㄓㄨㄢˋ",
+      "ㄓㄨㄢˇ",
+      "ㄗㄨㄢˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄓㄨㄢˋ」！(來源：第二課_轉(44))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_轉(45)",
+    "question": "陀螺在地上快速「轉」動",
+    "speakText": "陀螺在地上快速什麼動",
+    "options": [
+      "ㄓㄨㄢˋ",
+      "ㄓㄨㄢˇ",
+      "ㄗㄨㄢˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄓㄨㄢˋ」！(來源：第二課_轉(45))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_轉(46)",
+    "question": "他「轉」身向媽媽揮手道別",
+    "speakText": "他什麼身向媽媽揮手道別",
+    "options": [
+      "ㄓㄨㄢˇ",
+      "ㄓㄨㄢˋ",
+      "ㄗㄨㄢˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄓㄨㄢˇ」！(來源：第二課_轉(46))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_轉(47)",
+    "question": "哪一個「轉」字讀作「ㄓㄨㄢˋ」？",
+    "speakText": "哪一個轉字讀作轉",
+    "options": [
+      "打轉",
+      "轉達",
+      "轉告"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「打轉」！(來源：第二課_轉(47))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_轉(48)",
+    "question": "哪一個「轉」字讀作「ㄓㄨㄢˇ」？",
+    "speakText": "哪一個轉字讀作轉",
+    "options": [
+      "轉告",
+      "轉圈",
+      "打轉"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「轉告」！(來源：第二課_轉(48))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_只(49)",
+    "question": "「只」能 的注音是？",
+    "speakText": "什麼能",
+    "options": [
+      "ㄓˇ",
+      "ㄓ",
+      "ㄗˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄓˇ」！(來源：第三課_只(49))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_只(50)",
+    "question": "「只」要 的注音是？",
+    "speakText": "什麼要",
+    "options": [
+      "ㄓˇ",
+      "ㄓ",
+      "ㄓˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄓˇ」！(來源：第三課_只(50))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_只(51)",
+    "question": "「只」有 的注音是？",
+    "speakText": "什麼有",
+    "options": [
+      "ㄓˇ",
+      "ㄓ",
+      "ㄗ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄓˇ」！(來源：第三課_只(51))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_只(52)",
+    "question": "「只」好 的注音是？",
+    "speakText": "什麼好",
+    "options": [
+      "ㄓˇ",
+      "ㄓ",
+      "ㄓˊ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄓˇ」！(來源：第三課_只(52))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_只(53)",
+    "question": "一「只」戒指 的注音是？",
+    "speakText": "一什麼戒指",
+    "options": [
+      "ㄓ",
+      "ㄓˇ",
+      "ㄗ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄓ」！(來源：第三課_只(53))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_只(54)",
+    "question": "外面下大雨我們「只」能留在教室",
+    "speakText": "外面下大雨我們什麼能留在教室",
+    "options": [
+      "ㄓˇ",
+      "ㄓ",
+      "ㄗˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄓˇ」！(來源：第三課_只(54))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_只(55)",
+    "question": "「只」要肯努力就一定會有收穫",
+    "speakText": "什麼要肯努力就一定會有收穫",
+    "options": [
+      "ㄓˇ",
+      "ㄓ",
+      "ㄓˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄓˇ」！(來源：第三課_只(55))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_只(56)",
+    "question": "盒子裡「只」有一顆草莓蛋糕",
+    "speakText": "盒子裡什麼有一顆草莓蛋糕",
+    "options": [
+      "ㄓˇ",
+      "ㄓ",
+      "ㄗ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄓˇ」！(來源：第三課_只(56))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_只(57)",
+    "question": "公車已經開走了我「只」好走路回家",
+    "speakText": "公車已經開走了我什麼好走路回家",
+    "options": [
+      "ㄓˇ",
+      "ㄓ",
+      "ㄓˊ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄓˇ」！(來源：第三課_只(57))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_只(58)",
+    "question": "媽媽手指上戴著一「只」金戒指",
+    "speakText": "媽媽手指上戴著一什麼金戒指",
+    "options": [
+      "ㄓ",
+      "ㄓˇ",
+      "ㄗ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄓ」！(來源：第三課_只(58))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_只(59)",
+    "question": "爺爺送給爸爸一「只」漂亮的手錶",
+    "speakText": "爺爺送給爸爸一什麼漂亮的手錶",
+    "options": [
+      "ㄓ",
+      "ㄓˇ",
+      "ㄓˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄓ」！(來源：第三課_只(59))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_只(60)",
+    "question": "桌子上放著一「只」古老的木箱",
+    "speakText": "桌子上放著一什麼古老的木箱",
+    "options": [
+      "ㄓ",
+      "ㄓˇ",
+      "ㄗˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄓ」！(來源：第三課_只(60))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_只(61)",
+    "question": "他手裡提著一「只」裝滿水果的籃子",
+    "speakText": "他手裡提著一什麼裝滿水果的籃子",
+    "options": [
+      "ㄓ",
+      "ㄓˇ",
+      "ㄓˊ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄓ」！(來源：第三課_只(61))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_只(62)",
+    "question": "當「只」作為單位量詞時讀作？",
+    "speakText": "當什麼作為單位量詞時讀作",
+    "options": [
+      "ㄓ",
+      "ㄓˇ",
+      "ㄓˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄓ」！(來源：第三課_只(62))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_只(63)",
+    "question": "哪一個「只」字讀作「ㄓ」？",
+    "speakText": "哪一個只字讀作只",
+    "options": [
+      "一只戒指",
+      "只能",
+      "只好"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「一只戒指」！(來源：第三課_只(63))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_只(64)",
+    "question": "哪一個「只」字讀作「ㄓˇ」？",
+    "speakText": "哪一個只字讀作只",
+    "options": [
+      "只要",
+      "一只手錶",
+      "一只箱子"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「只要」！(來源：第三課_只(64))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_分(65)",
+    "question": "「分」擔 的注音是？",
+    "speakText": "什麼擔",
+    "options": [
+      "ㄈㄣ",
+      "ㄈㄣˋ",
+      "ㄈㄥ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄈㄣ」！(來源：第三課_分(65))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_分(66)",
+    "question": "「分」類 的注音是？",
+    "speakText": "什麼類",
+    "options": [
+      "ㄈㄣ",
+      "ㄈㄣˋ",
+      "ㄈㄣˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄈㄣ」！(來源：第三課_分(66))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_分(67)",
+    "question": "得「分」 的注音是？",
+    "speakText": "得什麼",
+    "options": [
+      "ㄈㄣ",
+      "ㄈㄣˋ",
+      "ㄏㄨㄣ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄈㄣ」！(來源：第三課_分(67))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_分(68)",
+    "question": "計「分」 的注音是？",
+    "speakText": "計什麼",
+    "options": [
+      "ㄈㄣ",
+      "ㄈㄣˋ",
+      "ㄈㄣˊ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄈㄣ」！(來源：第三課_分(68))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_分(69)",
+    "question": "部「分」 的注音是？",
+    "speakText": "部什麼",
+    "options": [
+      "ㄈㄣˋ",
+      "ㄈㄣ",
+      "ㄈㄥˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄈㄣˋ」！(來源：第三課_分(69))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_分(70)",
+    "question": "天「分」 的注音是？",
+    "speakText": "天什麼",
+    "options": [
+      "ㄈㄣˋ",
+      "ㄈㄣ",
+      "ㄈㄣˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄈㄣˋ」！(來源：第三課_分(70))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_分(71)",
+    "question": "過「分」 的注音是？",
+    "speakText": "過什麼",
+    "options": [
+      "ㄈㄣˋ",
+      "ㄈㄣ",
+      "ㄏㄨㄣˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄈㄣˋ」！(來源：第三課_分(71))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_分(72)",
+    "question": "成「分」 的注音是？",
+    "speakText": "成什麼",
+    "options": [
+      "ㄈㄣˋ",
+      "ㄈㄣ",
+      "ㄈㄣˊ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄈㄣˋ」！(來源：第三課_分(72))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_分(73)",
+    "question": "我們要幫忙「分」擔家事",
+    "speakText": "我們要幫忙什麼擔家事",
+    "options": [
+      "ㄈㄣ",
+      "ㄈㄣˋ",
+      "ㄈㄣˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄈㄣ」！(來源：第三課_分(73))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_分(74)",
+    "question": "丟垃圾前要先做好資源回收「分」類",
+    "speakText": "丟垃圾前要先做好資源回收什麼類",
+    "options": [
+      "ㄈㄣ",
+      "ㄈㄣˋ",
+      "ㄈㄥ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄈㄣ」！(來源：第三課_分(74))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_分(75)",
+    "question": "國王喜歡跟大家「分」享快樂",
+    "speakText": "國王喜歡跟大家什麼享快樂",
+    "options": [
+      "ㄈㄣ",
+      "ㄈㄣˋ",
+      "ㄈㄣˊ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄈㄣ」！(來源：第三課_分(75))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_分(76)",
+    "question": "投進這一球就可以得兩「分」",
+    "speakText": "投進這一球就可以得兩什麼",
+    "options": [
+      "ㄈㄣ",
+      "ㄈㄣˋ",
+      "ㄈㄣˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄈㄣ」！(來源：第三課_分(76))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_分(77)",
+    "question": "這本書有一部「分」的頁面破掉了",
+    "speakText": "這本書有一部什麼的頁面破掉了",
+    "options": [
+      "ㄈㄣˋ",
+      "ㄈㄣ",
+      "ㄈㄥˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄈㄣˋ」！(來源：第三課_分(77))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_分(78)",
+    "question": "姊姊在畫畫方面很有天「分」",
+    "speakText": "姊姊在畫畫方面很有天什麼",
+    "options": [
+      "ㄈㄣˋ",
+      "ㄈㄣ",
+      "ㄈㄣˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄈㄣˋ」！(來源：第三課_分(78))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_分(79)",
+    "question": "你這樣捉弄同學實在太過「分」了",
+    "speakText": "你這樣捉弄同學實在太過什麼了",
+    "options": [
+      "ㄈㄣˋ",
+      "ㄈㄣ",
+      "ㄈㄣˊ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄈㄣˋ」！(來源：第三課_分(79))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_分(80)",
+    "question": "買餅乾時要注意包裝上的營養成「分」",
+    "speakText": "買餅乾時要注意包裝上的營養成什麼",
+    "options": [
+      "ㄈㄣˋ",
+      "ㄈㄣ",
+      "ㄈㄥˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄈㄣˋ」！(來源：第三課_分(80))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_分(81)",
+    "question": "哪一個「分」字讀作「ㄈㄣˋ」？",
+    "speakText": "哪一個分字讀作分",
+    "options": [
+      "天分",
+      "分類",
+      "得分"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「天分」！(來源：第三課_分(81))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_分(82)",
+    "question": "哪一個「分」字讀作「ㄈㄣ」？",
+    "speakText": "哪一個分字讀作分",
+    "options": [
+      "分擔",
+      "部分",
+      "過分"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「分擔」！(來源：第三課_分(82))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_法(83)",
+    "question": "「法」術 的注音是？",
+    "speakText": "什麼術",
+    "options": [
+      "ㄈㄚˇ",
+      "ㄈㄚˊ",
+      "ㄈㄚ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄈㄚˇ」！(來源：第三課_法(83))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_法(84)",
+    "question": "魔「法」 的注音是？",
+    "speakText": "魔什麼",
+    "options": [
+      "ㄈㄚˇ",
+      "ㄈㄚˊ",
+      "ㄈㄚˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄈㄚˇ」！(來源：第三課_法(84))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_法(85)",
+    "question": "犯「法」 的注音是？",
+    "speakText": "犯什麼",
+    "options": [
+      "ㄈㄚˇ",
+      "ㄈㄚˊ",
+      "ㄏㄨㄚˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄈㄚˇ」！(來源：第三課_法(85))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_法(86)",
+    "question": "「法」子 的注音是？",
+    "speakText": "什麼子",
+    "options": [
+      "ㄈㄚˊ",
+      "ㄈㄚˇ",
+      "ㄈㄚˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄈㄚˊ」！(來源：第三課_法(86))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_法(87)",
+    "question": "故事裡的巫師會變神奇的「法」術",
+    "speakText": "故事裡的巫師會變神奇的什麼術",
+    "options": [
+      "ㄈㄚˇ",
+      "ㄈㄚˊ",
+      "ㄈㄚ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄈㄚˇ」！(來源：第三課_法(87))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_法(88)",
+    "question": "仙女揮動手中的魔「法」棒",
+    "speakText": "仙女揮動手中的魔什麼棒",
+    "options": [
+      "ㄈㄚˇ",
+      "ㄈㄚˊ",
+      "ㄈㄚˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄈㄚˇ」！(來源：第三課_法(88))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_法(89)",
+    "question": "闖紅燈是違「法」的行為",
+    "speakText": "闖紅燈是違什麼的行為",
+    "options": [
+      "ㄈㄚˇ",
+      "ㄈㄚˊ",
+      "ㄏㄨㄚˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄈㄚˇ」！(來源：第三課_法(89))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_法(90)",
+    "question": "偷拿別人的東西是犯「法」的",
+    "speakText": "偷拿別人的東西是犯什麼的",
+    "options": [
+      "ㄈㄚˇ",
+      "ㄈㄚˊ",
+      "ㄈㄚ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄈㄚˇ」！(來源：第三課_法(90))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_法(91)",
+    "question": "我們一起想個好方「法」來解決問題",
+    "speakText": "我們一起想個好方什麼來解決問題",
+    "options": [
+      "ㄈㄚˇ",
+      "ㄈㄚˊ",
+      "ㄈㄚˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄈㄚˇ」！(來源：第三課_法(91))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_法(92)",
+    "question": "老爺爺想出了一個聰明的「法」子",
+    "speakText": "老爺爺想出了一個聰明的什麼子",
+    "options": [
+      "ㄈㄚˊ",
+      "ㄈㄚˇ",
+      "ㄈㄚˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄈㄚˊ」！(來源：第三課_法(92))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_法(93)",
+    "question": "這件事我實在沒「法」子幫忙",
+    "speakText": "這件事我實在沒什麼子幫忙",
+    "options": [
+      "ㄈㄚˊ",
+      "ㄈㄚˇ",
+      "ㄏㄨㄚˊ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄈㄚˊ」！(來源：第三課_法(93))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_法(94)",
+    "question": "大臣想到一個改造舊衣的好「法」子",
+    "speakText": "大臣想到一個改造舊衣的好什麼子",
+    "options": [
+      "ㄈㄚˊ",
+      "ㄈㄚˇ",
+      "ㄈㄚ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄈㄚˊ」！(來源：第三課_法(94))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_法(95)",
+    "question": "當「法」的意思是「法子」時讀作？",
+    "speakText": "當什麼的意思是什麼子時讀作",
+    "options": [
+      "ㄈㄚˊ",
+      "ㄈㄚˇ",
+      "ㄈㄚˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄈㄚˊ」！(來源：第三課_法(95))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_法(96)",
+    "question": "大家都遵守班級的規「法」與規則",
+    "speakText": "大家都遵守班級的規什麼與規則",
+    "options": [
+      "ㄈㄚˇ",
+      "ㄈㄚˊ",
+      "ㄈㄚˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄈㄚˇ」！(來源：第三課_法(96))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_法(97)",
+    "question": "哪一個「法」字讀作「ㄈㄚˊ」？",
+    "speakText": "哪一個法字讀作法",
+    "options": [
+      "法子",
+      "魔法",
+      "犯法"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「法子」！(來源：第三課_法(97))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_法(98)",
+    "question": "哪一個「法」字讀作「ㄈㄚˇ」？",
+    "speakText": "哪一個法字讀作法",
+    "options": [
+      "法術",
+      "沒法子",
+      "好法子"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「法術」！(來源：第三課_法(98))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_呱(99)",
+    "question": "頂「呱」呱 的注音是？",
+    "speakText": "頂什麼什麼",
+    "options": [
+      "ㄍㄨㄚ",
+      "ㄍㄨ",
+      "ㄎㄨㄚ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄍㄨㄚ」！(來源：第四課_呱(99))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_呱(100)",
+    "question": "「呱」噪 的注音是？",
+    "speakText": "什麼噪",
+    "options": [
+      "ㄍㄨㄚ",
+      "ㄍㄨ",
+      "ㄍㄨㄚˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄍㄨㄚ」！(來源：第四課_呱(100))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_呱(101)",
+    "question": "「呱」呱叫 的注音是？",
+    "speakText": "什麼什麼叫",
+    "options": [
+      "ㄍㄨㄚ",
+      "ㄍㄨ",
+      "ㄍㄨㄚˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄍㄨㄚ」！(來源：第四課_呱(101))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_呱(102)",
+    "question": "「呱」呱墜地 的注音是？",
+    "speakText": "什麼什麼墜地",
+    "options": [
+      "ㄍㄨ",
+      "ㄍㄨㄚ",
+      "ㄎㄨ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄍㄨ」！(來源：第四課_呱(102))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_呱(103)",
+    "question": "他的游泳技術真是頂「呱」呱",
+    "speakText": "他的游泳技術真是頂什麼什麼",
+    "options": [
+      "ㄍㄨㄚ",
+      "ㄍㄨ",
+      "ㄎㄨㄚ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄍㄨㄚ」！(來源：第四課_呱(103))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_呱(104)",
+    "question": "青蛙在池塘邊大聲「呱」呱叫",
+    "speakText": "青蛙在池塘邊大聲什麼什麼叫",
+    "options": [
+      "ㄍㄨㄚ",
+      "ㄍㄨ",
+      "ㄍㄨㄚˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄍㄨㄚ」！(來源：第四課_呱(104))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_呱(105)",
+    "question": "樹上的烏鴉一直叫讓人覺得很「呱」噪",
+    "speakText": "樹上的烏鴉一直叫讓人覺得很什麼噪",
+    "options": [
+      "ㄍㄨㄚ",
+      "ㄍㄨ",
+      "ㄍㄨㄚˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄍㄨㄚ」！(來源：第四課_呱(105))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_呱(106)",
+    "question": "小鴨子在水草下「呱」呱地叫著",
+    "speakText": "小鴨子在水草下什麼什麼地叫著",
+    "options": [
+      "ㄍㄨㄚ",
+      "ㄍㄨ",
+      "ㄎㄨ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄍㄨㄚ」！(來源：第四課_呱(106))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_呱(107)",
+    "question": "小嬰兒「呱」呱墜地來到了這個世界",
+    "speakText": "小嬰兒什麼什麼墜地來到了這個世界",
+    "options": [
+      "ㄍㄨ",
+      "ㄍㄨㄚ",
+      "ㄍㄨˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄍㄨ」！(來源：第四課_呱(107))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_呱(108)",
+    "question": "形容嬰兒誕生哭聲的成語是「呱」呱墜地",
+    "speakText": "形容嬰兒誕生哭聲的成語是什麼什麼墜地",
+    "options": [
+      "ㄍㄨ",
+      "ㄍㄨㄚ",
+      "ㄎㄨㄚ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄍㄨ」！(來源：第四課_呱(108))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_呱(109)",
+    "question": "從他「呱」呱墜地起媽媽就細心照顧他",
+    "speakText": "從他什麼什麼墜地起媽媽就細心照顧他",
+    "options": [
+      "ㄍㄨ",
+      "ㄍㄨㄚ",
+      "ㄍㄨˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄍㄨ」！(來源：第四課_呱(109))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_呱(110)",
+    "question": "我會證明你的表現是頂「呱」呱",
+    "speakText": "我會證明你的表現是頂什麼什麼",
+    "options": [
+      "ㄍㄨㄚ",
+      "ㄍㄨ",
+      "ㄍㄨㄚˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄍㄨㄚ」！(來源：第四課_呱(110))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_呱(111)",
+    "question": "北風吹得窗戶「呱」啦呱啦地響",
+    "speakText": "北風吹得窗戶什麼啦什麼啦地響",
+    "options": [
+      "ㄍㄨㄚ",
+      "ㄍㄨ",
+      "ㄎㄨ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄍㄨㄚ」！(來源：第四課_呱(111))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_呱(112)",
+    "question": "哪一個「呱」字讀作「ㄍㄨ」？",
+    "speakText": "哪一個呱字讀作呱",
+    "options": [
+      "呱呱墜地",
+      "頂呱呱",
+      "呱噪"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「呱呱墜地」！(來源：第四課_呱(112))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_呱(113)",
+    "question": "哪一個「呱」字讀作「ㄍㄨㄚ」？",
+    "speakText": "哪一個呱字讀作呱",
+    "options": [
+      "呱呱叫",
+      "呱呱墜地",
+      "呱呱啼哭"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「呱呱叫」！(來源：第四課_呱(113))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_蝦(114)",
+    "question": "「蝦」米 的注音是？",
+    "speakText": "什麼米",
+    "options": [
+      "ㄒㄧㄚ",
+      "ㄏㄚˊ",
+      "ㄒㄧㄚˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄒㄧㄚ」！(來源：第四課_蝦(114))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_蝦(115)",
+    "question": "「蝦」仁 的注音是？",
+    "speakText": "什麼仁",
+    "options": [
+      "ㄒㄧㄚ",
+      "ㄏㄚˊ",
+      "ㄒㄧㄚˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄒㄧㄚ」！(來源：第四課_蝦(115))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_蝦(116)",
+    "question": "「蝦」兵蟹將 的注音是？",
+    "speakText": "什麼兵蟹將",
+    "options": [
+      "ㄒㄧㄚ",
+      "ㄏㄚˊ",
+      "ㄏㄚ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄒㄧㄚ」！(來源：第四課_蝦(116))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_蝦(117)",
+    "question": "「蝦」蟆 的注音是？",
+    "speakText": "什麼蟆",
+    "options": [
+      "ㄏㄚˊ",
+      "ㄒㄧㄚ",
+      "ㄏㄚˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄏㄚˊ」！(來源：第四課_蝦(117))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_蝦(118)",
+    "question": "癩「蝦」蟆 的注音是？",
+    "speakText": "癩什麼蟆",
+    "options": [
+      "ㄏㄚˊ",
+      "ㄒㄧㄚ",
+      "ㄒㄧㄚˊ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄏㄚˊ」！(來源：第四課_蝦(118))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_蝦(119)",
+    "question": "媽媽在炒飯裡加了美味的「蝦」仁",
+    "speakText": "媽媽在炒飯裡加了美味的什麼仁",
+    "options": [
+      "ㄒㄧㄚ",
+      "ㄏㄚˊ",
+      "ㄒㄧㄚˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄒㄧㄚ」！(來源：第四課_蝦(119))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_蝦(120)",
+    "question": "絲瓜湯裡放一點「蝦」米會更香",
+    "speakText": "絲瓜湯裡放一點什麼米會更香",
+    "options": [
+      "ㄒㄧㄚ",
+      "ㄏㄚˊ",
+      "ㄏㄚ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄒㄧㄚ」！(來源：第四課_蝦(120))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_蝦(121)",
+    "question": "海龍王帶著一群「蝦」兵蟹將出來巡邏",
+    "speakText": "海龍王帶著一群什麼兵蟹將出來巡邏",
+    "options": [
+      "ㄒㄧㄚ",
+      "ㄏㄚˊ",
+      "ㄒㄧㄚˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄒㄧㄚ」！(來源：第四課_蝦(121))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_蝦(122)",
+    "question": "水族箱裡有好幾隻活蹦亂跳的龍「蝦」",
+    "speakText": "水族箱裡有好幾隻活蹦亂跳的龍什麼",
+    "options": [
+      "ㄒㄧㄚ",
+      "ㄏㄚˊ",
+      "ㄏㄚˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄒㄧㄚ」！(來源：第四課_蝦(122))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_蝦(123)",
+    "question": "水草下躲著一隻大肚子的「蝦」蟆",
+    "speakText": "水草下躲著一隻大肚子的什麼蟆",
+    "options": [
+      "ㄏㄚˊ",
+      "ㄒㄧㄚ",
+      "ㄏㄚ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄏㄚˊ」！(來源：第四課_蝦(123))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_蝦(124)",
+    "question": "故事裡的癩「蝦」蟆想要吃天鵝肉",
+    "speakText": "故事裡的癩什麼蟆想要吃天鵝肉",
+    "options": [
+      "ㄏㄚˊ",
+      "ㄒㄧㄚ",
+      "ㄒㄧㄚˊ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄏㄚˊ」！(來源：第四課_蝦(124))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_蝦(125)",
+    "question": "猜猜我是「蝦」蟆還是青蛙？",
+    "speakText": "猜猜我是什麼蟆還是青蛙",
+    "options": [
+      "ㄏㄚˊ",
+      "ㄒㄧㄚ",
+      "ㄏㄚˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄏㄚˊ」！(來源：第四課_蝦(125))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_蝦(126)",
+    "question": "「蝦」蟆的皮膚上有很多小疙瘩",
+    "speakText": "什麼蟆的皮膚上有很多小疙瘩",
+    "options": [
+      "ㄏㄚˊ",
+      "ㄒㄧㄚ",
+      "ㄒㄧㄚˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄏㄚˊ」！(來源：第四課_蝦(126))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_蝦(127)",
+    "question": "哪一個「蝦」字讀作「ㄏㄚˊ」？",
+    "speakText": "哪一個蝦字讀作蝦",
+    "options": [
+      "癩蝦蟆",
+      "蝦兵蟹將",
+      "蝦仁"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「癩蝦蟆」！(來源：第四課_蝦(127))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_蝦(128)",
+    "question": "哪一個「蝦」字讀作「ㄒㄧㄚ」？",
+    "speakText": "哪一個蝦字讀作蝦",
+    "options": [
+      "蝦米",
+      "蝦蟆",
+      "癩蝦蟆"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「蝦米」！(來源：第四課_蝦(128))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_橫(129)",
+    "question": "「橫」越 的注音是？",
+    "speakText": "什麼越",
+    "options": [
+      "ㄏㄥˊ",
+      "ㄏㄥˋ",
+      "ㄏㄨㄥˊ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄏㄥˊ」！(來源：第五課_橫(129))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_橫(130)",
+    "question": "「橫」衝直撞 的注音是？",
+    "speakText": "什麼衝直撞",
+    "options": [
+      "ㄏㄥˊ",
+      "ㄏㄥˋ",
+      "ㄏㄥ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄏㄥˊ」！(來源：第五課_橫(130))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_橫(131)",
+    "question": "蠻「橫」 的注音是？",
+    "speakText": "蠻什麼",
+    "options": [
+      "ㄏㄥˋ",
+      "ㄏㄥˊ",
+      "ㄏㄨㄥˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄏㄥˋ」！(來源：第五課_橫(131))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_橫(132)",
+    "question": "「橫」死 的注音是？",
+    "speakText": "什麼死",
+    "options": [
+      "ㄏㄥˋ",
+      "ㄏㄥˊ",
+      "ㄏㄥˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄏㄥˋ」！(來源：第五課_橫(132))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_橫(133)",
+    "question": "小螃蟹在沙灘上「橫」著走路",
+    "speakText": "小螃蟹在沙灘上什麼著走路",
+    "options": [
+      "ㄏㄥˊ",
+      "ㄏㄥˋ",
+      "ㄏㄨㄥˊ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄏㄥˊ」！(來源：第五課_橫(133))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_橫(134)",
+    "question": "過馬路要走斑馬線不可以隨便「橫」越",
+    "speakText": "過馬路要走斑馬線不可以隨便什麼越",
+    "options": [
+      "ㄏㄥˊ",
+      "ㄏㄥˋ",
+      "ㄏㄥ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄏㄥˊ」！(來源：第五課_橫(134))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_橫(135)",
+    "question": "在走廊上「橫」衝直撞非常容易受傷",
+    "speakText": "在走廊上什麼衝直撞非常容易受傷",
+    "options": [
+      "ㄏㄥˊ",
+      "ㄏㄥˋ",
+      "ㄏㄥˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄏㄥˊ」！(來源：第五課_橫(135))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_橫(136)",
+    "question": "寫國字的時候要注意「橫」畫要平",
+    "speakText": "寫國字的時候要注意什麼畫要平",
+    "options": [
+      "ㄏㄥˊ",
+      "ㄏㄥˋ",
+      "ㄏㄨㄥˊ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄏㄥˊ」！(來源：第五課_橫(136))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_橫(137)",
+    "question": "彩虹像一座「橫」跨天空的美麗橋梁",
+    "speakText": "彩虹像一座什麼跨天空的美麗橋梁",
+    "options": [
+      "ㄏㄥˊ",
+      "ㄏㄥˋ",
+      "ㄏㄥ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄏㄥˊ」！(來源：第五課_橫(137))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_橫(138)",
+    "question": "那個惡霸態度非常蠻「橫」不講理",
+    "speakText": "那個惡霸態度非常蠻什麼不講理",
+    "options": [
+      "ㄏㄥˋ",
+      "ㄏㄥˊ",
+      "ㄏㄨㄥˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄏㄥˋ」！(來源：第五課_橫(138))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_橫(139)",
+    "question": "做人要講道理不可以強「橫」霸道",
+    "speakText": "做人要講道理不可以強什麼霸道",
+    "options": [
+      "ㄏㄥˋ",
+      "ㄏㄥˊ",
+      "ㄏㄥˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄏㄥˋ」！(來源：第五課_橫(139))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_橫(140)",
+    "question": "暴風雨帶來了可怕的「橫」禍",
+    "speakText": "暴風雨帶來了可怕的什麼禍",
+    "options": [
+      "ㄏㄥˋ",
+      "ㄏㄥˊ",
+      "ㄏㄨㄥˊ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄏㄥˋ」！(來源：第五課_橫(140))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_橫(141)",
+    "question": "武俠小說裡的壞人最後慘遭「橫」死",
+    "speakText": "武俠小說裡的壞人最後慘遭什麼死",
+    "options": [
+      "ㄏㄥˋ",
+      "ㄏㄥˊ",
+      "ㄏㄥ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄏㄥˋ」！(來源：第五課_橫(141))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_橫(142)",
+    "question": "他臉上露出一副蠻「橫」的表情",
+    "speakText": "他臉上露出一副蠻什麼的表情",
+    "options": [
+      "ㄏㄥˋ",
+      "ㄏㄥˊ",
+      "ㄏㄥˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄏㄥˋ」！(來源：第五課_橫(142))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_橫(143)",
+    "question": "哪一個「橫」字讀作「ㄏㄥˋ」？",
+    "speakText": "哪一個橫字讀作橫",
+    "options": [
+      "蠻橫",
+      "橫越",
+      "橫衝直撞"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「蠻橫」！(來源：第五課_橫(143))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_橫(144)",
+    "question": "哪一個「橫」字讀作「ㄏㄥˊ」？",
+    "speakText": "哪一個橫字讀作橫",
+    "options": [
+      "橫衝直撞",
+      "蠻橫",
+      "橫死"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「橫衝直撞」！(來源：第五課_橫(144))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_麗(145)",
+    "question": "俏「麗」 的注音是？",
+    "speakText": "俏什麼",
+    "options": [
+      "ㄌㄧˋ",
+      "ㄌㄧˊ",
+      "ㄌㄧˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄌㄧˋ」！(來源：第五課_麗(145))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_麗(146)",
+    "question": "富「麗」堂皇 的注音是？",
+    "speakText": "富什麼堂皇",
+    "options": [
+      "ㄌㄧˋ",
+      "ㄌㄧˊ",
+      "ㄌㄧ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄌㄧˋ」！(來源：第五課_麗(146))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_麗(147)",
+    "question": "高「麗」 的注音是？",
+    "speakText": "高什麼",
+    "options": [
+      "ㄌㄧˊ",
+      "ㄌㄧˋ",
+      "ㄌㄧˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄌㄧˊ」！(來源：第五課_麗(147))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_麗(148)",
+    "question": "夕陽下沙灘形成一幅美「麗」的畫",
+    "speakText": "夕陽下沙灘形成一幅美什麼的畫",
+    "options": [
+      "ㄌㄧˋ",
+      "ㄌㄧˊ",
+      "ㄌㄧ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄌㄧˋ」！(來源：第五課_麗(148))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_麗(149)",
+    "question": "國王的宮殿裝飾得富「麗」堂皇",
+    "speakText": "國王的宮殿裝飾得富什麼堂皇",
+    "options": [
+      "ㄌㄧˋ",
+      "ㄌㄧˊ",
+      "ㄌㄧˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄌㄧˋ」！(來源：第五課_麗(149))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_麗(150)",
+    "question": "妹妹剪了短髮看起來更加俏「麗」",
+    "speakText": "妹妹剪了短髮看起來更加俏什麼",
+    "options": [
+      "ㄌㄧˋ",
+      "ㄌㄧˊ",
+      "ㄌㄧ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄌㄧˋ」！(來源：第五課_麗(150))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_麗(151)",
+    "question": "春天來了花園裡百花齊放十分艷「麗」",
+    "speakText": "春天來了花園裡百花齊放十分艷什麼",
+    "options": [
+      "ㄌㄧˋ",
+      "ㄌㄧˊ",
+      "ㄌㄧˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄌㄧˋ」！(來源：第五課_麗(151))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_麗(152)",
+    "question": "雨後的天空出現一道絢「麗」的彩虹",
+    "speakText": "雨後的天空出現一道絢什麼的彩虹",
+    "options": [
+      "ㄌㄧˋ",
+      "ㄌㄧˊ",
+      "ㄌㄧ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄌㄧˋ」！(來源：第五課_麗(152))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_麗(153)",
+    "question": "蝴蝶的翅膀上有著華「麗」的花紋",
+    "speakText": "蝴蝶的翅膀上有著華什麼的花紋",
+    "options": [
+      "ㄌㄧˋ",
+      "ㄌㄧˊ",
+      "ㄌㄧˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄌㄧˋ」！(來源：第五課_麗(153))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_麗(154)",
+    "question": "「高麗」是韓國古代的國家名稱",
+    "speakText": "高什麼是韓國古代的國家名稱",
+    "options": [
+      "ㄌㄧˊ",
+      "ㄌㄧˋ",
+      "ㄌㄧˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄌㄧˊ」！(來源：第五課_麗(154))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_麗(155)",
+    "question": "歷史書上記載了古國高「麗」的故事",
+    "speakText": "歷史書上記載了古國高什麼的故事",
+    "options": [
+      "ㄌㄧˊ",
+      "ㄌㄧˋ",
+      "ㄌㄧ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄌㄧˊ」！(來源：第五課_麗(155))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_麗(156)",
+    "question": "韓國特產的高「麗」參非常有名",
+    "speakText": "韓國特產的高什麼參非常有名",
+    "options": [
+      "ㄌㄧˊ",
+      "ㄌㄧˋ",
+      "ㄌㄧˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄌㄧˊ」！(來源：第五課_麗(156))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_麗(157)",
+    "question": "當「麗」指韓國古國名「高麗」時讀作？",
+    "speakText": "當什麼指韓國古國名高什麼時讀作",
+    "options": [
+      "ㄌㄧˊ",
+      "ㄌㄧˋ",
+      "ㄌㄧˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄌㄧˊ」！(來源：第五課_麗(157))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_麗(158)",
+    "question": "哪一個「麗」字讀作「ㄌㄧˊ」？",
+    "speakText": "哪一個麗字讀作麗",
+    "options": [
+      "高麗(古國名)",
+      "富麗堂皇",
+      "俏麗"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「高麗(古國名)」！(來源：第五課_麗(158))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_麗(159)",
+    "question": "哪一個「麗」字讀作「ㄌㄧˋ」？",
+    "speakText": "哪一個麗字讀作麗",
+    "options": [
+      "俏麗",
+      "高麗古國",
+      "高麗參"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「俏麗」！(來源：第五課_麗(159))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_散(160)",
+    "question": "「散」播 的注音是？",
+    "speakText": "什麼播",
+    "options": [
+      "ㄙㄢˋ",
+      "ㄙㄢˇ",
+      "ㄕㄢˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄙㄢˋ」！(來源：第六課_散(160))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_散(161)",
+    "question": "披頭「散」髮 的注音是？",
+    "speakText": "披頭什麼髮",
+    "options": [
+      "ㄙㄢˋ",
+      "ㄙㄢˇ",
+      "ㄕㄢˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄙㄢˋ」！(來源：第六課_散(161))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_散(162)",
+    "question": "「散」裝 的注音是？",
+    "speakText": "什麼裝",
+    "options": [
+      "ㄙㄢˇ",
+      "ㄙㄢˋ",
+      "ㄕㄢˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄙㄢˇ」！(來源：第六課_散(162))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_散(163)",
+    "question": "「散」文 的注音是？",
+    "speakText": "什麼文",
+    "options": [
+      "ㄙㄢˇ",
+      "ㄙㄢˋ",
+      "ㄙㄢ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄙㄢˇ」！(來源：第六課_散(163))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_散(164)",
+    "question": "懶「散」 的注音是？",
+    "speakText": "懶什麼",
+    "options": [
+      "ㄙㄢˇ",
+      "ㄙㄢˋ",
+      "ㄕㄢˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄙㄢˇ」！(來源：第六課_散(164))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_散(165)",
+    "question": "晚飯後全家人一起到竹林裡「散」步",
+    "speakText": "晚飯後全家人一起到竹林裡什麼步",
+    "options": [
+      "ㄙㄢˋ",
+      "ㄙㄢˇ",
+      "ㄕㄢˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄙㄢˋ」！(來源：第六課_散(165))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_散(166)",
+    "question": "蒲公英的種子隨風四處「散」播",
+    "speakText": "蒲公英的種子隨風四處什麼播",
+    "options": [
+      "ㄙㄢˋ",
+      "ㄙㄢˇ",
+      "ㄙㄢ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄙㄢˋ」！(來源：第六課_散(166))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_散(167)",
+    "question": "剛睡醒的妹妹披頭「散」髮走出來",
+    "speakText": "剛睡醒的妹妹披頭什麼髮走出來",
+    "options": [
+      "ㄙㄢˋ",
+      "ㄙㄢˇ",
+      "ㄕㄢˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄙㄢˋ」！(來源：第六課_散(167))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_散(168)",
+    "question": "放學鐘聲響起同學們各自解「散」回家",
+    "speakText": "放學鐘聲響起同學們各自解什麼回家",
+    "options": [
+      "ㄙㄢˋ",
+      "ㄙㄢˇ",
+      "ㄕㄢˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄙㄢˋ」！(來源：第六課_散(168))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_散(169)",
+    "question": "烏雲終於消「散」太陽露出了笑臉",
+    "speakText": "烏雲終於消什麼太陽露出了笑臉",
+    "options": [
+      "ㄙㄢˋ",
+      "ㄙㄢˇ",
+      "ㄙㄢ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄙㄢˋ」！(來源：第六課_散(169))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_散(170)",
+    "question": "超市裡有賣「散」裝的糖果和餅乾",
+    "speakText": "超市裡有賣什麼裝的糖果和餅乾",
+    "options": [
+      "ㄙㄢˇ",
+      "ㄙㄢˋ",
+      "ㄕㄢˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄙㄢˇ」！(來源：第六課_散(170))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_散(171)",
+    "question": "這本故事書裡收錄了許多優美的「散」文",
+    "speakText": "這本故事書裡收錄了許多優美的什麼文",
+    "options": [
+      "ㄙㄢˇ",
+      "ㄙㄢˋ",
+      "ㄙㄢ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄙㄢˇ」！(來源：第六課_散(171))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_散(172)",
+    "question": "做事要積極認真不可以態度懶「散」",
+    "speakText": "做事要積極認真不可以態度懶什麼",
+    "options": [
+      "ㄙㄢˇ",
+      "ㄙㄢˋ",
+      "ㄕㄢˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄙㄢˇ」！(來源：第六課_散(172))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_散(173)",
+    "question": "地上到處都是零「散」的積木玩具",
+    "speakText": "地上到處都是零什麼的積木玩具",
+    "options": [
+      "ㄙㄢˇ",
+      "ㄙㄢˋ",
+      "ㄕㄢˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄙㄢˇ」！(來源：第六課_散(173))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_散(174)",
+    "question": "我的鞋帶鬆「散」開來了要重新綁好",
+    "speakText": "我的鞋帶鬆什麼開來了要重新綁好",
+    "options": [
+      "ㄙㄢˇ",
+      "ㄙㄢˋ",
+      "ㄙㄢ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄙㄢˇ」！(來源：第六課_散(174))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_散(175)",
+    "question": "哪一個「散」字讀作「ㄙㄢˇ」？",
+    "speakText": "哪一個散字讀作散",
+    "options": [
+      "懶散",
+      "散播",
+      "披頭散髮"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「懶散」！(來源：第六課_散(175))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_散(176)",
+    "question": "哪一個「散」字讀作「ㄙㄢˋ」？",
+    "speakText": "哪一個散字讀作散",
+    "options": [
+      "散播",
+      "散文",
+      "散裝"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「散播」！(來源：第六課_散(176))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_說(177)",
+    "question": "光「說」不練 的注音是？",
+    "speakText": "光什麼不練",
+    "options": [
+      "ㄕㄨㄛ",
+      "ㄕㄨㄟˋ",
+      "ㄙㄨㄛ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄕㄨㄛ」！(來源：閱讀一_說(177))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_說(178)",
+    "question": "現身「說」法 的注音是？",
+    "speakText": "現身什麼法",
+    "options": [
+      "ㄕㄨㄛ",
+      "ㄕㄨㄟˋ",
+      "ㄕㄨㄛˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄕㄨㄛ」！(來源：閱讀一_說(178))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_說(179)",
+    "question": "「說」服 的注音是？",
+    "speakText": "什麼服",
+    "options": [
+      "ㄕㄨㄟˋ",
+      "ㄕㄨㄛ",
+      "ㄙㄨㄟˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄕㄨㄟˋ」！(來源：閱讀一_說(179))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_說(180)",
+    "question": "遊「說」 的注音是？",
+    "speakText": "遊什麼",
+    "options": [
+      "ㄕㄨㄟˋ",
+      "ㄕㄨㄛ",
+      "ㄕㄨㄟˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄕㄨㄟˋ」！(來源：閱讀一_說(180))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_說(181)",
+    "question": "「說」客 的注音是？",
+    "speakText": "什麼客",
+    "options": [
+      "ㄕㄨㄟˋ",
+      "ㄕㄨㄛ",
+      "ㄙㄨㄛˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄕㄨㄟˋ」！(來源：閱讀一_說(181))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_說(182)",
+    "question": "奶奶「說」小蜻蜓低低飛代表快下雨了",
+    "speakText": "奶奶什麼小蜻蜓低低飛代表快下雨了",
+    "options": [
+      "ㄕㄨㄛ",
+      "ㄕㄨㄟˋ",
+      "ㄙㄨㄛ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄕㄨㄛ」！(來源：閱讀一_說(182))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_說(183)",
+    "question": "學游泳不能光「說」不練一定要下水練習",
+    "speakText": "學游泳不能光什麼不練一定要下水練習",
+    "options": [
+      "ㄕㄨㄛ",
+      "ㄕㄨㄟˋ",
+      "ㄕㄨㄛˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄕㄨㄛ」！(來源：閱讀一_說(183))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_說(184)",
+    "question": "消防員叔叔到學校現身「說」法教導防災知識",
+    "speakText": "消防員叔叔到學校現身什麼法教導防災知識",
+    "options": [
+      "ㄕㄨㄛ",
+      "ㄕㄨㄟˋ",
+      "ㄙㄨㄟˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄕㄨㄛ」！(來源：閱讀一_說(184))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_說(185)",
+    "question": "睡覺前爸爸最喜歡聽我「說」學校的趣事",
+    "speakText": "睡覺前爸爸最喜歡聽我什麼學校的趣事",
+    "options": [
+      "ㄕㄨㄛ",
+      "ㄕㄨㄟˋ",
+      "ㄙㄨㄛ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄕㄨㄛ」！(來源：閱讀一_說(185))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_說(186)",
+    "question": "誠實的孩子絕對不會「說」謊",
+    "speakText": "誠實的孩子絕對不會什麼謊",
+    "options": [
+      "ㄕㄨㄛ",
+      "ㄕㄨㄟˋ",
+      "ㄕㄨㄛˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄕㄨㄛ」！(來源：閱讀一_說(186))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_說(187)",
+    "question": "經過一番努力我終於「說」服媽媽讓我養小狗",
+    "speakText": "經過一番努力我終於什麼服媽媽讓我養小狗",
+    "options": [
+      "ㄕㄨㄟˋ",
+      "ㄕㄨㄛ",
+      "ㄙㄨㄟˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄕㄨㄟˋ」！(來源：閱讀一_說(187))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_說(188)",
+    "question": "歷史上的蘇秦是一位很有名的「說」客",
+    "speakText": "歷史上的蘇秦是一位很有名的什麼客",
+    "options": [
+      "ㄕㄨㄟˋ",
+      "ㄕㄨㄛ",
+      "ㄕㄨㄟˇ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄕㄨㄟˋ」！(來源：閱讀一_說(188))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_說(189)",
+    "question": "他到各國去遊「說」國王簽訂和平條約",
+    "speakText": "他到各國去遊什麼國王簽訂和平條約",
+    "options": [
+      "ㄕㄨㄟˋ",
+      "ㄕㄨㄛ",
+      "ㄙㄨㄛ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄕㄨㄟˋ」！(來源：閱讀一_說(189))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_說(190)",
+    "question": "班長成功「說」服大家一起參加淨灘活動",
+    "speakText": "班長成功什麼服大家一起參加淨灘活動",
+    "options": [
+      "ㄕㄨㄟˋ",
+      "ㄕㄨㄛ",
+      "ㄕㄨㄛˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄕㄨㄟˋ」！(來源：閱讀一_說(190))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_說(191)",
+    "question": "哪一個「說」字讀作「ㄕㄨㄟˋ」？",
+    "speakText": "哪一個說字讀作說",
+    "options": [
+      "說服",
+      "現身說法",
+      "光說不練"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「說服」！(來源：閱讀一_說(191))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_說(192)",
+    "question": "哪一個「說」字讀作「ㄕㄨㄛ」？",
+    "speakText": "哪一個說字讀作說",
+    "options": [
+      "現身說法",
+      "遊說",
+      "說客"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「現身說法」！(來源：閱讀一_說(192))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_行(193)",
+    "question": "品「行」 的注音是？",
+    "speakText": "品什麼",
+    "options": [
+      "ㄒㄧㄥˋ",
+      "ㄒㄧㄥˊ",
+      "ㄏㄤˊ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄒㄧㄥˋ」！(來源：閱讀一_行(193))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_行(194)",
+    "question": "德「行」 的注音是？",
+    "speakText": "德什麼",
+    "options": [
+      "ㄒㄧㄥˋ",
+      "ㄒㄧㄥˊ",
+      "ㄏㄤˊ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄒㄧㄥˋ」！(來源：閱讀一_行(194))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_行(195)",
+    "question": "「行」動 的注音是？",
+    "speakText": "什麼動",
+    "options": [
+      "ㄒㄧㄥˊ",
+      "ㄒㄧㄥˋ",
+      "ㄏㄤˊ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄒㄧㄥˊ」！(來源：閱讀一_行(195))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_行(196)",
+    "question": "「行」為 的注音是？",
+    "speakText": "什麼為",
+    "options": [
+      "ㄒㄧㄥˊ",
+      "ㄒㄧㄥˋ",
+      "ㄏㄤˊ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄒㄧㄥˊ」！(來源：閱讀一_行(196))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_行(197)",
+    "question": "「行」李 的注音是？",
+    "speakText": "什麼李",
+    "options": [
+      "ㄒㄧㄥˊ",
+      "ㄒㄧㄥˋ",
+      "ㄏㄤˊ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄒㄧㄥˊ」！(來源：閱讀一_行(197))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_行(198)",
+    "question": "「行」列 的注音是？",
+    "speakText": "什麼列",
+    "options": [
+      "ㄏㄤˊ",
+      "ㄒㄧㄥˊ",
+      "ㄒㄧㄥˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄏㄤˊ」！(來源：閱讀一_行(198))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_行(199)",
+    "question": "「行」家 的注音是？",
+    "speakText": "什麼家",
+    "options": [
+      "ㄏㄤˊ",
+      "ㄒㄧㄥˊ",
+      "ㄒㄧㄥˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄏㄤˊ」！(來源：閱讀一_行(199))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_行(200)",
+    "question": "他是一位品「行」端正的好學生",
+    "speakText": "他是一位品什麼端正的好學生",
+    "options": [
+      "ㄒㄧㄥˋ",
+      "ㄒㄧㄥˊ",
+      "ㄏㄤˊ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄒㄧㄥˋ」！(來源：閱讀一_行(200))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_行(201)",
+    "question": "古人非常重視一個人的道德與德「行」",
+    "speakText": "古人非常重視一個人的道德與德什麼",
+    "options": [
+      "ㄒㄧㄥˋ",
+      "ㄒㄧㄥˊ",
+      "ㄏㄤˊ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄒㄧㄥˋ」！(來源：閱讀一_行(201))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_行(202)",
+    "question": "良好的品「行」比考試得滿分更重要",
+    "speakText": "良好的品什麼比考試得滿分更重要",
+    "options": [
+      "ㄒㄧㄥˋ",
+      "ㄒㄧㄥˊ",
+      "ㄏㄤˊ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄒㄧㄥˋ」！(來源：閱讀一_行(202))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_行(203)",
+    "question": "出發去旅行前要先把「行」李整理好",
+    "speakText": "出發去旅什麼前要先把什麼李整理好",
+    "options": [
+      "ㄒㄧㄥˊ",
+      "ㄒㄧㄥˋ",
+      "ㄏㄤˊ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄒㄧㄥˊ」！(來源：閱讀一_行(203))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_行(204)",
+    "question": "馬路如虎口「行」人過馬路要小心",
+    "speakText": "馬路如虎口什麼人過馬路要小心",
+    "options": [
+      "ㄒㄧㄥˊ",
+      "ㄒㄧㄥˋ",
+      "ㄏㄤˊ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄒㄧㄥˊ」！(來源：閱讀一_行(204))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_行(205)",
+    "question": "救援隊立刻展開搜救「行」動",
+    "speakText": "救援隊立刻展開搜救什麼動",
+    "options": [
+      "ㄒㄧㄥˊ",
+      "ㄒㄧㄥˋ",
+      "ㄏㄤˊ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄒㄧㄥˊ」！(來源：閱讀一_行(205))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_行(206)",
+    "question": "大雁在天空中排成整齊的「行」列往南飛",
+    "speakText": "大雁在天空中排成整齊的什麼列往南飛",
+    "options": [
+      "ㄏㄤˊ",
+      "ㄒㄧㄥˊ",
+      "ㄒㄧㄥˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄏㄤˊ」！(來源：閱讀一_行(206))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_行(207)",
+    "question": "王叔叔修理腳踏車已經二十年是真正的「行」家",
+    "speakText": "王叔叔修理腳踏車已經二十年是真正的什麼家",
+    "options": [
+      "ㄏㄤˊ",
+      "ㄒㄧㄥˊ",
+      "ㄒㄧㄥˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄏㄤˊ」！(來源：閱讀一_行(207))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_行(208)",
+    "question": "媽媽今天去銀「行」存錢",
+    "speakText": "媽媽今天去銀什麼存錢",
+    "options": [
+      "ㄏㄤˊ",
+      "ㄒㄧㄥˊ",
+      "ㄒㄧㄥˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄏㄤˊ」！(來源：閱讀一_行(208))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_行(209)",
+    "question": "三百六十「行」行行出狀元",
+    "speakText": "三百六十什麼什麼什麼出狀元",
+    "options": [
+      "ㄏㄤˊ",
+      "ㄒㄧㄥˊ",
+      "ㄒㄧㄥˋ"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「ㄏㄤˊ」！(來源：閱讀一_行(209))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_行(210)",
+    "question": "哪一個「行」字讀作「ㄒㄧㄥˋ」？",
+    "speakText": "哪一個行字讀作行",
+    "options": [
+      "品行",
+      "行李",
+      "行家"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「品行」！(來源：閱讀一_行(210))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_行(211)",
+    "question": "哪一個「行」字讀作「ㄒㄧㄥˊ」？",
+    "speakText": "哪一個行字讀作行",
+    "options": [
+      "行動",
+      "德行",
+      "行列"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「行動」！(來源：閱讀一_行(211))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_行(212)",
+    "question": "哪一個「行」字讀作「ㄏㄤˊ」？",
+    "speakText": "哪一個行字讀作行",
+    "options": [
+      "行列",
+      "行為",
+      "品行"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「行列」！(來源：閱讀一_行(212))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_後候(1)",
+    "question": "延「ㄏㄡˋ」 的國字是？",
+    "speakText": "延後",
+    "options": [
+      "後",
+      "候",
+      "后"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「後」！(來源：第一課_後候(1))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_後候(2)",
+    "question": "「ㄏㄡˋ」悔 的國字是？",
+    "speakText": "後悔",
+    "options": [
+      "後",
+      "候",
+      "厚"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「後」！(來源：第一課_後候(2))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_後候(3)",
+    "question": "先斬「ㄏㄡˋ」奏 的國字是？",
+    "speakText": "先斬後奏",
+    "options": [
+      "後",
+      "候",
+      "后"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「後」！(來源：第一課_後候(3))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_後候(4)",
+    "question": "「ㄏㄡˋ」補 的國字是？",
+    "speakText": "候補",
+    "options": [
+      "候",
+      "後",
+      "猴"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「候」！(來源：第一課_後候(4))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_後候(5)",
+    "question": "氣「ㄏㄡˋ」 的國字是？",
+    "speakText": "氣候",
+    "options": [
+      "候",
+      "後",
+      "厚"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「候」！(來源：第一課_後候(5))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_後候(6)",
+    "question": "問「ㄏㄡˋ」 的國字是？",
+    "speakText": "問候",
+    "options": [
+      "候",
+      "後",
+      "后"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「候」！(來源：第一課_後候(6))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_後候(7)",
+    "question": "時「ㄏㄡˋ」 的國字是？",
+    "speakText": "時候",
+    "options": [
+      "候",
+      "後",
+      "猴"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「候」！(來源：第一課_後候(7))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_後候(8)",
+    "question": "因大雨影響比賽決定延「ㄏㄡˋ」舉行",
+    "speakText": "因大雨影響比賽決定延後舉行",
+    "options": [
+      "後",
+      "候",
+      "后"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「後」！(來源：第一課_後候(8))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_後候(9)",
+    "question": "沒寫完作業讓我非常「ㄏㄡˋ」悔",
+    "speakText": "沒寫完作業讓我非常後悔",
+    "options": [
+      "後",
+      "候",
+      "厚"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「後」！(來源：第一課_後候(9))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_後候(10)",
+    "question": "做事要先商量不可以先斬「ㄏㄡˋ」奏",
+    "speakText": "做事要先商量不可以先斬後奏",
+    "options": [
+      "後",
+      "候",
+      "猴"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「後」！(來源：第一課_後候(10))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_後候(11)",
+    "question": "老師把卡片掛在教室「ㄏㄡˋ」面",
+    "speakText": "老師把卡片掛在教室後面",
+    "options": [
+      "後",
+      "候",
+      "后"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「後」！(來源：第一課_後候(11))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_後候(12)",
+    "question": "下課時「ㄏㄡˋ」大家一起到操場玩",
+    "speakText": "下課時候大家一起到操場玩",
+    "options": [
+      "候",
+      "後",
+      "厚"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「候」！(來源：第一課_後候(12))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_後候(13)",
+    "question": "秋天到了氣「ㄏㄡˋ」漸漸變涼",
+    "speakText": "秋天到了氣候漸漸變涼",
+    "options": [
+      "候",
+      "後",
+      "猴"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「候」！(來源：第一課_後候(13))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_後候(14)",
+    "question": "我們打電話向爺爺奶奶表達問「ㄏㄡˋ」",
+    "speakText": "我們打電話向爺爺奶奶表達問候",
+    "options": [
+      "候",
+      "後",
+      "后"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「候」！(來源：第一課_後候(14))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_後候(15)",
+    "question": "他是這次比賽的「ㄏㄡˋ」補選手",
+    "speakText": "他是這次比賽的候補選手",
+    "options": [
+      "候",
+      "後",
+      "厚"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「候」！(來源：第一課_後候(15))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_青晴猜(16)",
+    "question": "「ㄑㄧㄥ」苔 的國字是？",
+    "speakText": "青苔",
+    "options": [
+      "青",
+      "晴",
+      "猜"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「青」！(來源：第一課_青晴猜(16))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_青晴猜(17)",
+    "question": "踏「ㄑㄧㄥ」 的國字是？",
+    "speakText": "踏青",
+    "options": [
+      "青",
+      "晴",
+      "清"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「青」！(來源：第一課_青晴猜(17))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_青晴猜(18)",
+    "question": "「ㄑㄧㄥ」出於藍 的國字是？",
+    "speakText": "青出於藍",
+    "options": [
+      "青",
+      "晴",
+      "情"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「青」！(來源：第一課_青晴猜(18))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_青晴猜(19)",
+    "question": "放「ㄑㄧㄥˊ」 的國字是？",
+    "speakText": "放晴",
+    "options": [
+      "晴",
+      "青",
+      "猜"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「晴」！(來源：第一課_青晴猜(19))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_青晴猜(20)",
+    "question": "「ㄑㄧㄥˊ」朗 的國字是？",
+    "speakText": "晴朗",
+    "options": [
+      "晴",
+      "青",
+      "睛"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「晴」！(來源：第一課_青晴猜(20))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_青晴猜(21)",
+    "question": "「ㄑㄧㄥˊ」空萬里 的國字是？",
+    "speakText": "晴空萬里",
+    "options": [
+      "晴",
+      "青",
+      "情"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「晴」！(來源：第一課_青晴猜(21))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_青晴猜(22)",
+    "question": "「ㄘㄞ」疑 的國字是？",
+    "speakText": "猜疑",
+    "options": [
+      "猜",
+      "青",
+      "晴"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「猜」！(來源：第一課_青晴猜(22))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_青晴猜(23)",
+    "question": "瞎「ㄘㄞ」 的國字是？",
+    "speakText": "瞎猜",
+    "options": [
+      "猜",
+      "晴",
+      "清"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「猜」！(來源：第一課_青晴猜(23))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_青晴猜(24)",
+    "question": "兩小無「ㄘㄞ」 的國字是？",
+    "speakText": "兩小無猜",
+    "options": [
+      "猜",
+      "青",
+      "請"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「猜」！(來源：第一課_青晴猜(24))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_青晴猜(25)",
+    "question": "潮溼的石頭上長滿了綠色的「ㄑㄧㄥ」苔",
+    "speakText": "潮溼的石頭上長滿了綠色的青苔",
+    "options": [
+      "青",
+      "晴",
+      "猜"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「青」！(來源：第一課_青晴猜(25))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_青晴猜(26)",
+    "question": "春天到了全家人一起去郊外踏「ㄑㄧㄥ」",
+    "speakText": "春天到了全家人一起去郊外踏青",
+    "options": [
+      "青",
+      "晴",
+      "睛"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「青」！(來源：第一課_青晴猜(26))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_青晴猜(27)",
+    "question": "學生的表現比老師更好真是「ㄑㄧㄥ」出於藍",
+    "speakText": "學生的表現比老師更好真是青出於藍",
+    "options": [
+      "青",
+      "晴",
+      "猜"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「青」！(來源：第一課_青晴猜(27))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_青晴猜(28)",
+    "question": "雨停了天空終於放「ㄑㄧㄥˊ」了",
+    "speakText": "雨停了天空終於放晴了",
+    "options": [
+      "晴",
+      "青",
+      "猜"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「晴」！(來源：第一課_青晴猜(28))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_青晴猜(29)",
+    "question": "今天天氣「ㄑㄧㄥˊ」朗適合去公園野餐",
+    "speakText": "今天天氣晴朗適合去公園野餐",
+    "options": [
+      "晴",
+      "青",
+      "睛"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「晴」！(來源：第一課_青晴猜(29))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_青晴猜(30)",
+    "question": "好朋友之間要互相相信不要隨便「ㄘㄞ」疑",
+    "speakText": "好朋友之間要互相相信不要隨便猜疑",
+    "options": [
+      "猜",
+      "青",
+      "晴"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「猜」！(來源：第一課_青晴猜(30))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_青晴猜(31)",
+    "question": "不知道答案時要認真思考不要亂瞎「ㄘㄞ」",
+    "speakText": "不知道答案時要認真思考不要亂瞎猜",
+    "options": [
+      "猜",
+      "晴",
+      "情"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「猜」！(來源：第一課_青晴猜(31))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_青晴猜(32)",
+    "question": "他們從小一起長大是兩小無「ㄘㄞ」的好朋友",
+    "speakText": "他們從小一起長大是兩小無猜的好朋友",
+    "options": [
+      "猜",
+      "青",
+      "晴"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「猜」！(來源：第一課_青晴猜(32))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_烏鳥(33)",
+    "question": "「ㄨ」黑 的國字是？",
+    "speakText": "烏黑",
+    "options": [
+      "烏",
+      "鳥",
+      "馬"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「烏」！(來源：第一課_烏鳥(33))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_烏鳥(34)",
+    "question": "「ㄨ」亮 的國字是？",
+    "speakText": "烏亮",
+    "options": [
+      "烏",
+      "鳥",
+      "島"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「烏」！(來源：第一課_烏鳥(34))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_烏鳥(35)",
+    "question": "「ㄋㄧㄠˇ」巢 的國字是？",
+    "speakText": "鳥巢",
+    "options": [
+      "鳥",
+      "烏",
+      "島"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「鳥」！(來源：第一課_烏鳥(35))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_烏鳥(36)",
+    "question": "一石二「ㄋㄧㄠˇ」 的國字是？",
+    "speakText": "一石二鳥",
+    "options": [
+      "鳥",
+      "烏",
+      "馬"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「鳥」！(來源：第一課_烏鳥(36))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_烏鳥(37)",
+    "question": "妹妹有一雙「ㄨ」黑明亮的大眼睛",
+    "speakText": "妹妹有一雙烏黑明亮的大眼睛",
+    "options": [
+      "烏",
+      "鳥",
+      "馬"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「烏」！(來源：第一課_烏鳥(37))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_烏鳥(38)",
+    "question": "姊姊留著一頭「ㄨ」亮又柔順的長髮",
+    "speakText": "姊姊留著一頭烏亮又柔順的長髮",
+    "options": [
+      "烏",
+      "鳥",
+      "島"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「烏」！(來源：第一課_烏鳥(38))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_烏鳥(39)",
+    "question": "天空布滿「ㄨ」雲看起來快要下雨了",
+    "speakText": "天空布滿烏雲看起來快要下雨了",
+    "options": [
+      "烏",
+      "鳥",
+      "馬"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「烏」！(來源：第一課_烏鳥(39))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_烏鳥(40)",
+    "question": "大樹上有一座小鳥用樹枝築成的「ㄋㄧㄠˇ」巢",
+    "speakText": "大樹上有一座小鳥用樹枝築成的鳥巢",
+    "options": [
+      "鳥",
+      "烏",
+      "島"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「鳥」！(來源：第一課_烏鳥(40))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_烏鳥(41)",
+    "question": "這個方法可以同時解決兩個問題真是一石二「ㄋㄧㄠˇ」",
+    "speakText": "這個方法可以同時解決兩個問題真是一石二鳥",
+    "options": [
+      "鳥",
+      "烏",
+      "馬"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「鳥」！(來源：第一課_烏鳥(41))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_烏鳥(42)",
+    "question": "清晨時樹林裡傳來清脆的「ㄋㄧㄠˇ」叫聲",
+    "speakText": "清晨時樹林裡傳來清脆的鳥叫聲",
+    "options": [
+      "鳥",
+      "烏",
+      "島"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「鳥」！(來源：第一課_烏鳥(42))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_密蜜(43)",
+    "question": "祕「ㄇㄧˋ」 的國字是？",
+    "speakText": "祕密",
+    "options": [
+      "密",
+      "蜜",
+      "必"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「密」！(來源：第一課_密蜜(43))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_密蜜(44)",
+    "question": "親「ㄇㄧˋ」 的國字是？",
+    "speakText": "親密",
+    "options": [
+      "密",
+      "蜜",
+      "宓"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「密」！(來源：第一課_密蜜(44))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_密蜜(45)",
+    "question": "「ㄇㄧˋ」蜂 的國字是？",
+    "speakText": "蜜蜂",
+    "options": [
+      "蜜",
+      "密",
+      "蟲"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「蜜」！(來源：第一課_密蜜(45))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_密蜜(46)",
+    "question": "甜「ㄇㄧˋ」 的國字是？",
+    "speakText": "甜蜜",
+    "options": [
+      "蜜",
+      "密",
+      "必"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「蜜」！(來源：第一課_密蜜(46))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_密蜜(47)",
+    "question": "這是我跟好朋友之間的小祕「ㄇㄧˋ」",
+    "speakText": "這是我跟好朋友之間的小祕密",
+    "options": [
+      "密",
+      "蜜",
+      "必"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「密」！(來源：第一課_密蜜(47))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_密蜜(48)",
+    "question": "我們全家人感情非常親「ㄇㄧˋ」",
+    "speakText": "我們全家人感情非常親密",
+    "options": [
+      "密",
+      "蜜",
+      "宓"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「密」！(來源：第一課_密蜜(48))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_密蜜(49)",
+    "question": "森林裡的樹木長得非常茂「ㄇㄧˋ」",
+    "speakText": "森林裡的樹木長得非常茂密",
+    "options": [
+      "密",
+      "蜜",
+      "必"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「密」！(來源：第一課_密蜜(49))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_密蜜(50)",
+    "question": "勤勞的「ㄇㄧˋ」蜂在花叢裡採花蜜",
+    "speakText": "勤勞的蜜蜂在花叢裡採花蜜",
+    "options": [
+      "蜜",
+      "密",
+      "蟲"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「蜜」！(來源：第一課_密蜜(50))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_密蜜(51)",
+    "question": "媽媽泡了一杯香甜好喝的蜂「ㄇㄧˋ」水",
+    "speakText": "媽媽泡了一杯香甜好喝的蜂蜜水",
+    "options": [
+      "蜜",
+      "密",
+      "必"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「蜜」！(來源：第一課_密蜜(51))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_密蜜(52)",
+    "question": "看著全家福照片心裡有一種甜「ㄇㄧˋ」的感覺",
+    "speakText": "看著全家福照片心裡有一種甜蜜的感覺",
+    "options": [
+      "蜜",
+      "密",
+      "宓"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「蜜」！(來源：第一課_密蜜(52))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_虹紅(53)",
+    "question": "彩「ㄏㄨㄥˊ」 的國字是？",
+    "speakText": "彩虹",
+    "options": [
+      "虹",
+      "紅",
+      "江"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「虹」！(來源：第一課_虹紅(53))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_虹紅(54)",
+    "question": "霓「ㄏㄨㄥˊ」燈 的國字是？",
+    "speakText": "霓虹燈",
+    "options": [
+      "虹",
+      "紅",
+      "工"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「虹」！(來源：第一課_虹紅(54))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_虹紅(55)",
+    "question": "「ㄏㄨㄥˊ」潤 的國字是？",
+    "speakText": "紅潤",
+    "options": [
+      "紅",
+      "虹",
+      "江"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「紅」！(來源：第一課_虹紅(55))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_虹紅(56)",
+    "question": "萬紫千「ㄏㄨㄥˊ」 的國字是？",
+    "speakText": "萬紫千紅",
+    "options": [
+      "紅",
+      "虹",
+      "工"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「紅」！(來源：第一課_虹紅(56))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_虹紅(57)",
+    "question": "雨後放晴天空出現一道美麗的彩「ㄏㄨㄥˊ」",
+    "speakText": "雨後放晴天空出現一道美麗的彩虹",
+    "options": [
+      "虹",
+      "紅",
+      "工"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「虹」！(來源：第一課_虹紅(57))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_虹紅(58)",
+    "question": "夜晚的街道閃爍著五顏六色的霓「ㄏㄨㄥˊ」燈",
+    "speakText": "夜晚的街道閃爍著五顏六色的霓虹燈",
+    "options": [
+      "虹",
+      "紅",
+      "江"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「虹」！(來源：第一課_虹紅(58))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_虹紅(59)",
+    "question": "運動完後妹妹的臉頰變得十分「ㄏㄨㄥˊ」潤",
+    "speakText": "運動完後妹妹的臉頰變得十分紅潤",
+    "options": [
+      "紅",
+      "虹",
+      "工"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「紅」！(來源：第一課_虹紅(59))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_虹紅(60)",
+    "question": "春天的花園裡百花盛開真是萬紫千「ㄏㄨㄥˊ」",
+    "speakText": "春天的花園裡百花盛開真是萬紫千紅",
+    "options": [
+      "紅",
+      "虹",
+      "江"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「紅」！(來源：第一課_虹紅(60))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第一課_虹紅(61)",
+    "question": "過馬路時看到「ㄏㄨㄥˊ」燈一定要停下來",
+    "speakText": "過馬路時看到紅燈一定要停下來",
+    "options": [
+      "紅",
+      "虹",
+      "工"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「紅」！(來源：第一課_虹紅(61))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_如知(62)",
+    "question": "「ㄖㄨˊ」此 的國字是？",
+    "speakText": "如此",
+    "options": [
+      "如",
+      "知",
+      "女"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「如」！(來源：第二課_如知(62))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_如知(63)",
+    "question": "比「ㄖㄨˊ」 的國字是？",
+    "speakText": "比如",
+    "options": [
+      "如",
+      "知",
+      "加"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「如」！(來源：第二課_如知(63))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_如知(64)",
+    "question": "「ㄖㄨˊ」魚得水 的國字是？",
+    "speakText": "如魚得水",
+    "options": [
+      "如",
+      "知",
+      "和"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「如」！(來源：第二課_如知(64))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_如知(65)",
+    "question": "「ㄓ」名 的國字是？",
+    "speakText": "知名",
+    "options": [
+      "知",
+      "如",
+      "智"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「知」！(來源：第二課_如知(65))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_如知(66)",
+    "question": "告「ㄓ」 的國字是？",
+    "speakText": "告知",
+    "options": [
+      "知",
+      "如",
+      "和"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「知」！(來源：第二課_如知(66))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_如知(67)",
+    "question": "「ㄓ」難而退 的國字是？",
+    "speakText": "知難而退",
+    "options": [
+      "知",
+      "如",
+      "智"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「知」！(來源：第二課_如知(67))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_如知(68)",
+    "question": "原來事情的經過是「ㄖㄨˊ」此",
+    "speakText": "原來事情的經過是如此",
+    "options": [
+      "如",
+      "知",
+      "加"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「如」！(來源：第二課_如知(68))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_如知(69)",
+    "question": "我喜歡吃很多水果比「ㄖㄨˊ」蘋果和香蕉",
+    "speakText": "我喜歡吃很多水果比如蘋果和香蕉",
+    "options": [
+      "如",
+      "知",
+      "和"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「如」！(來源：第二課_如知(69))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_如知(70)",
+    "question": "愛游泳的他到了海邊就像「ㄖㄨˊ」魚得水一樣快樂",
+    "speakText": "愛游泳的他到了海邊就像如魚得水一樣快樂",
+    "options": [
+      "如",
+      "知",
+      "加"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「如」！(來源：第二課_如知(70))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_如知(71)",
+    "question": "剛開學時主角緊張得不「ㄓ」如何是好",
+    "speakText": "剛開學時主角緊張得不知如何是好",
+    "options": [
+      "知",
+      "如",
+      "智"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「知」！(來源：第二課_如知(71))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_如知(72)",
+    "question": "請提前告「ㄓ」大家明天的集合時間",
+    "speakText": "請提前告知大家明天的集合時間",
+    "options": [
+      "知",
+      "如",
+      "加"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「知」！(來源：第二課_如知(72))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_如知(73)",
+    "question": "遇到困難要想辦法克服不要輕易「ㄓ」難而退",
+    "speakText": "遇到困難要想辦法克服不要輕易知難而退",
+    "options": [
+      "知",
+      "如",
+      "和"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「知」！(來源：第二課_如知(73))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_如知(74)",
+    "question": "日月潭是台灣非常「ㄓ」名的風景區",
+    "speakText": "日月潭是台灣非常知名的風景區",
+    "options": [
+      "知",
+      "如",
+      "智"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「知」！(來源：第二課_如知(74))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_道到(75)",
+    "question": "「ㄉㄠˋ」別 的國字是？",
+    "speakText": "道別",
+    "options": [
+      "道",
+      "到",
+      "導"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「道」！(來源：第二課_道到(75))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_道到(76)",
+    "question": "「ㄉㄠˋ」歉 的國字是？",
+    "speakText": "道歉",
+    "options": [
+      "道",
+      "到",
+      "倒"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「道」！(來源：第二課_道到(76))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_道到(77)",
+    "question": "步「ㄉㄠˋ」 的國字是？",
+    "speakText": "步道",
+    "options": [
+      "道",
+      "到",
+      "首"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「道」！(來源：第二課_道到(77))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_道到(78)",
+    "question": "「ㄉㄠˋ」達 的國字是？",
+    "speakText": "到達",
+    "options": [
+      "到",
+      "道",
+      "倒"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「到」！(來源：第二課_道到(78))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_道到(79)",
+    "question": "「ㄉㄠˋ」齊 的國字是？",
+    "speakText": "到齊",
+    "options": [
+      "到",
+      "道",
+      "致"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「到」！(來源：第二課_道到(79))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_道到(80)",
+    "question": "報「ㄉㄠˋ」 的國字是？",
+    "speakText": "報到",
+    "options": [
+      "到",
+      "道",
+      "倒"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「到」！(來源：第二課_道到(80))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_道到(81)",
+    "question": "放學時我們揮手向老師與同學「ㄉㄠˋ」別",
+    "speakText": "放學時我們揮手向老師與同學道別",
+    "options": [
+      "道",
+      "到",
+      "首"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「道」！(來源：第二課_道到(81))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_道到(82)",
+    "question": "做錯事時要勇敢承認並誠心「ㄉㄠˋ」歉",
+    "speakText": "做錯事時要勇敢承認並誠心道歉",
+    "options": [
+      "道",
+      "到",
+      "倒"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「道」！(來源：第二課_道到(82))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_道到(83)",
+    "question": "假日我們全家一起去走森林步「ㄉㄠˋ」",
+    "speakText": "假日我們全家一起去走森林步道",
+    "options": [
+      "道",
+      "到",
+      "導"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「道」！(來源：第二課_道到(83))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_道到(84)",
+    "question": "火車已經順利「ㄉㄠˋ」達終點站了",
+    "speakText": "火車已經順利到達終點站了",
+    "options": [
+      "到",
+      "道",
+      "致"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「到」！(來源：第二課_道到(84))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_道到(85)",
+    "question": "全班同學都已經「ㄉㄠˋ」齊準備出發",
+    "speakText": "全班同學都已經到齊準備出發",
+    "options": [
+      "到",
+      "道",
+      "倒"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「到」！(來源：第二課_道到(85))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_道到(86)",
+    "question": "新學期開始一年級的新生來學校報「ㄉㄠˋ」",
+    "speakText": "新學期開始一年級的新生來學校報到",
+    "options": [
+      "到",
+      "道",
+      "首"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「到」！(來源：第二課_道到(86))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第二課_道到(87)",
+    "question": "多觀察大自然就會知「ㄉㄠˋ」更多有趣的事",
+    "speakText": "多觀察大自然就會知道更多有趣的事",
+    "options": [
+      "道",
+      "到",
+      "倒"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「道」！(來源：第二課_道到(87))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_越趕(88)",
+    "question": "「ㄩㄝˋ」線 的國字是？",
+    "speakText": "越線",
+    "options": [
+      "越",
+      "趕",
+      "起"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「越」！(來源：第三課_越趕(88))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_越趕(89)",
+    "question": "卓「ㄩㄝˋ」 的國字是？",
+    "speakText": "卓越",
+    "options": [
+      "越",
+      "趕",
+      "超"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「越」！(來源：第三課_越趕(89))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_越趕(90)",
+    "question": "翻山「ㄩㄝˋ」嶺 的國字是？",
+    "speakText": "翻山越嶺",
+    "options": [
+      "越",
+      "趕",
+      "起"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「越」！(來源：第三課_越趕(90))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_越趕(91)",
+    "question": "「ㄍㄢˇ」快 的國字是？",
+    "speakText": "趕快",
+    "options": [
+      "趕",
+      "越",
+      "起"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「趕」！(來源：第三課_越趕(91))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_越趕(92)",
+    "question": "追「ㄍㄢˇ」 的國字是？",
+    "speakText": "追趕",
+    "options": [
+      "趕",
+      "越",
+      "超"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「趕」！(來源：第三課_越趕(92))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_越趕(93)",
+    "question": "迎頭「ㄍㄢˇ」上 的國字是？",
+    "speakText": "迎頭趕上",
+    "options": [
+      "趕",
+      "越",
+      "起"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「趕」！(來源：第三課_越趕(93))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_越趕(94)",
+    "question": "躲避球比賽時要注意不可以踩線或「ㄩㄝˋ」線",
+    "speakText": "躲避球比賽時要注意不可以踩線或越線",
+    "options": [
+      "越",
+      "趕",
+      "起"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「越」！(來源：第三課_越趕(94))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_越趕(95)",
+    "question": "探險隊翻山「ㄩㄝˋ」嶺終於找到神祕山谷",
+    "speakText": "探險隊翻山越嶺終於找到神祕山谷",
+    "options": [
+      "越",
+      "趕",
+      "超"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「越」！(來源：第三課_越趕(95))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_越趕(96)",
+    "question": "經過不斷練習他的表現「ㄩㄝˋ」來越好",
+    "speakText": "經過不斷練習他的表現越來越好",
+    "options": [
+      "越",
+      "趕",
+      "起"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「越」！(來源：第三課_越趕(96))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_越趕(97)",
+    "question": "快要遲到了我們「ㄍㄢˇ」快加快腳步",
+    "speakText": "快要遲到了我們趕快加快腳步",
+    "options": [
+      "趕",
+      "越",
+      "起"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「趕」！(來源：第三課_越趕(97))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_越趕(98)",
+    "question": "小狗在草地上開心地追「ㄍㄢˇ」著飛盤",
+    "speakText": "小狗在草地上開心地追趕著飛盤",
+    "options": [
+      "趕",
+      "越",
+      "超"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「趕」！(來源：第三課_越趕(98))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_越趕(99)",
+    "question": "雖然一開始落後但他努力練習終於迎頭「ㄍㄢˇ」上",
+    "speakText": "雖然一開始落後但他努力練習終於迎頭趕上",
+    "options": [
+      "趕",
+      "越",
+      "起"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「趕」！(來源：第三課_越趕(99))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_王玉(100)",
+    "question": "「ㄨㄤˊ」室 的國字是？",
+    "speakText": "王室",
+    "options": [
+      "王",
+      "玉",
+      "主"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「王」！(來源：第三課_王玉(100))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_王玉(101)",
+    "question": "女「ㄨㄤˊ」 的國字是？",
+    "speakText": "女王",
+    "options": [
+      "王",
+      "玉",
+      "土"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「王」！(來源：第三課_王玉(101))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_王玉(102)",
+    "question": "白馬「ㄨㄤˊ」子 的國字是？",
+    "speakText": "白馬王子",
+    "options": [
+      "王",
+      "玉",
+      "主"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「王」！(來源：第三課_王玉(102))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_王玉(103)",
+    "question": "「ㄩˋ」珮 的國字是？",
+    "speakText": "玉珮",
+    "options": [
+      "玉",
+      "王",
+      "主"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「玉」！(來源：第三課_王玉(103))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_王玉(104)",
+    "question": "「ㄩˋ」兔 的國字是？",
+    "speakText": "玉兔",
+    "options": [
+      "玉",
+      "王",
+      "土"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「玉」！(來源：第三課_王玉(104))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_王玉(105)",
+    "question": "亭亭「ㄩˋ」立 的國字是？",
+    "speakText": "亭亭玉立",
+    "options": [
+      "玉",
+      "王",
+      "主"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「玉」！(來源：第三課_王玉(105))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_王玉(106)",
+    "question": "故事裡的國「ㄨㄤˊ」喜歡自己設計新衣服",
+    "speakText": "故事裡的國王喜歡自己設計新衣服",
+    "options": [
+      "王",
+      "玉",
+      "主"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「王」！(來源：第三課_王玉(106))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_王玉(107)",
+    "question": "童話故事裡的白馬「ㄨㄤˊ」子非常勇敢",
+    "speakText": "童話故事裡的白馬王子非常勇敢",
+    "options": [
+      "王",
+      "玉",
+      "土"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「王」！(來源：第三課_王玉(107))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_王玉(108)",
+    "question": "蜜蜂群裡有一隻負責產卵的女「ㄨㄤˊ」蜂",
+    "speakText": "蜜蜂群裡有一隻負責產卵的女王蜂",
+    "options": [
+      "王",
+      "玉",
+      "主"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「王」！(來源：第三課_王玉(108))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_王玉(109)",
+    "question": "奶奶送給媽媽一塊翠綠色的「ㄩˋ」珮",
+    "speakText": "奶奶送給媽媽一塊翠綠色的玉珮",
+    "options": [
+      "玉",
+      "王",
+      "主"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「玉」！(來源：第三課_王玉(109))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_王玉(110)",
+    "question": "傳說月亮上面住著一隻可愛的「ㄩˋ」兔",
+    "speakText": "傳說月亮上面住著一隻可愛的玉兔",
+    "options": [
+      "玉",
+      "王",
+      "土"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「玉」！(來源：第三課_王玉(110))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_王玉(111)",
+    "question": "池塘裡的荷花長得亭亭「ㄩˋ」立真美麗",
+    "speakText": "池塘裡的荷花長得亭亭玉立真美麗",
+    "options": [
+      "玉",
+      "王",
+      "主"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「玉」！(來源：第三課_王玉(111))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_歡觀(112)",
+    "question": "「ㄏㄨㄢ」迎 的國字是？",
+    "speakText": "歡迎",
+    "options": [
+      "歡",
+      "觀",
+      "勸"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「歡」！(來源：第三課_歡觀(112))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_歡觀(113)",
+    "question": "「ㄏㄨㄢ」聚 的國字是？",
+    "speakText": "歡聚",
+    "options": [
+      "歡",
+      "觀",
+      "灌"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「歡」！(來源：第三課_歡觀(113))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_歡觀(114)",
+    "question": "不「ㄏㄨㄢ」而散 的國字是？",
+    "speakText": "不歡而散",
+    "options": [
+      "歡",
+      "觀",
+      "勸"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「歡」！(來源：第三課_歡觀(114))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_歡觀(115)",
+    "question": "「ㄍㄨㄢ」眾 的國字是？",
+    "speakText": "觀眾",
+    "options": [
+      "觀",
+      "歡",
+      "勸"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「觀」！(來源：第三課_歡觀(115))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_歡觀(116)",
+    "question": "旁「ㄍㄨㄢ」 的國字是？",
+    "speakText": "旁觀",
+    "options": [
+      "觀",
+      "歡",
+      "灌"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「觀」！(來源：第三課_歡觀(116))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_歡觀(117)",
+    "question": "嘆為「ㄍㄨㄢ」止 的國字是？",
+    "speakText": "嘆為觀止",
+    "options": [
+      "觀",
+      "歡",
+      "勸"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「觀」！(來源：第三課_歡觀(117))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_歡觀(118)",
+    "question": "大家拍手熱烈「ㄏㄨㄢ」迎新同學的加入",
+    "speakText": "大家拍手熱烈歡迎新同學的加入",
+    "options": [
+      "歡",
+      "觀",
+      "勸"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「歡」！(來源：第三課_歡觀(118))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_歡觀(119)",
+    "question": "過年時全家人「ㄏㄨㄢ」聚在一起吃團圓飯",
+    "speakText": "過年時全家人歡聚在一起吃團圓飯",
+    "options": [
+      "歡",
+      "觀",
+      "灌"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「歡」！(來源：第三課_歡觀(119))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_歡觀(120)",
+    "question": "他們因為意見不合吵了起來最後不「ㄏㄨㄢ」而散",
+    "speakText": "他們因為意見不合吵了起來最後不歡而散",
+    "options": [
+      "歡",
+      "觀",
+      "勸"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「歡」！(來源：第三課_歡觀(120))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_歡觀(121)",
+    "question": "國王發現做喜「ㄏㄨㄢ」的事能讓自己開心",
+    "speakText": "國王發現做喜歡的事能讓自己開心",
+    "options": [
+      "歡",
+      "觀",
+      "灌"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「歡」！(來源：第三課_歡觀(121))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_歡觀(122)",
+    "question": "台下的「ㄍㄨㄢ」眾都為精彩的表演鼓掌",
+    "speakText": "台下的觀眾都為精彩的表演鼓掌",
+    "options": [
+      "觀",
+      "歡",
+      "勸"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「觀」！(來源：第三課_歡觀(122))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_歡觀(123)",
+    "question": "魔術師神奇的表演讓大家嘆為「ㄍㄨㄢ」止",
+    "speakText": "魔術師神奇的表演讓大家嘆為觀止",
+    "options": [
+      "觀",
+      "歡",
+      "灌"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「觀」！(來源：第三課_歡觀(123))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第三課_歡觀(124)",
+    "question": "奶奶鼓勵作者多「ㄍㄨㄢ」察大自然",
+    "speakText": "奶奶鼓勵作者多觀察大自然",
+    "options": [
+      "觀",
+      "歡",
+      "勸"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「觀」！(來源：第三課_歡觀(124))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_進近(125)",
+    "question": "「ㄐㄧㄣˋ」度 的國字是？",
+    "speakText": "進度",
+    "options": [
+      "進",
+      "近",
+      "盡"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「進」！(來源：第四課_進近(125))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_進近(126)",
+    "question": "改「ㄐㄧㄣˋ」 的國字是？",
+    "speakText": "改進",
+    "options": [
+      "進",
+      "近",
+      "斤"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「進」！(來源：第四課_進近(126))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_進近(127)",
+    "question": "得寸「ㄐㄧㄣˋ」尺 的國字是？",
+    "speakText": "得寸進尺",
+    "options": [
+      "進",
+      "近",
+      "盡"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「進」！(來源：第四課_進近(127))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_進近(128)",
+    "question": "「ㄐㄧㄣˋ」視 的國字是？",
+    "speakText": "近視",
+    "options": [
+      "近",
+      "進",
+      "斤"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「近」！(來源：第四課_進近(128))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_進近(129)",
+    "question": "最「ㄐㄧㄣˋ」 的國字是？",
+    "speakText": "最近",
+    "options": [
+      "近",
+      "進",
+      "盡"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「近」！(來源：第四課_進近(129))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_進近(130)",
+    "question": "「ㄐㄧㄣˋ」在眼前 的國字是？",
+    "speakText": "近在眼前",
+    "options": [
+      "近",
+      "進",
+      "斤"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「近」！(來源：第四課_進近(130))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_進近(131)",
+    "question": "我們按照計畫順利完成了讀書「ㄐㄧㄣˋ」度",
+    "speakText": "我們按照計畫順利完成了讀書進度",
+    "options": [
+      "進",
+      "近",
+      "盡"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「進」！(來源：第四課_進近(131))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_進近(132)",
+    "question": "知道自己的缺點後要虛心接受並努力改「ㄐㄧㄣˋ」",
+    "speakText": "知道自己的缺點後要虛心接受並努力改進",
+    "options": [
+      "進",
+      "近",
+      "斤"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「進」！(來源：第四課_進近(132))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_進近(133)",
+    "question": "別人原諒你時要懂得感激不可以得寸「ㄐㄧㄣˋ」尺",
+    "speakText": "別人原諒你時要懂得感激不可以得寸進尺",
+    "options": [
+      "進",
+      "近",
+      "盡"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「進」！(來源：第四課_進近(133))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_進近(134)",
+    "question": "看書時光線要充足才不會得「ㄐㄧㄣˋ」視",
+    "speakText": "看書時光線要充足才不會得近視",
+    "options": [
+      "近",
+      "進",
+      "斤"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「近」！(來源：第四課_進近(134))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_進近(135)",
+    "question": "我擔心你不只想要靠「ㄐㄧㄣˋ」我還想抓我",
+    "speakText": "我擔心你不只想要靠近我還想抓我",
+    "options": [
+      "近",
+      "進",
+      "盡"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「近」！(來源：第四課_進近(135))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_進近(136)",
+    "question": "山頂已經「ㄐㄧㄣˋ」在眼前大家再加把勁",
+    "speakText": "山頂已經近在眼前大家再加把勁",
+    "options": [
+      "近",
+      "進",
+      "斤"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「近」！(來源：第四課_進近(136))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_進近(137)",
+    "question": "最「ㄐㄧㄣˋ」天氣變化大要注意保暖",
+    "speakText": "最近天氣變化大要注意保暖",
+    "options": [
+      "近",
+      "進",
+      "盡"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「近」！(來源：第四課_進近(137))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_腦惱(138)",
+    "question": "「ㄋㄠˇ」筋 的國字是？",
+    "speakText": "腦筋",
+    "options": [
+      "腦",
+      "惱",
+      "瑙"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「腦」！(來源：第四課_腦惱(138))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_腦惱(139)",
+    "question": "洗「ㄋㄠˇ」 的國字是？",
+    "speakText": "洗腦",
+    "options": [
+      "腦",
+      "惱",
+      "鬧"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「腦」！(來源：第四課_腦惱(139))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_腦惱(140)",
+    "question": "絞盡「ㄋㄠˇ」汁 的國字是？",
+    "speakText": "絞盡腦汁",
+    "options": [
+      "腦",
+      "惱",
+      "瑙"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「腦」！(來源：第四課_腦惱(140))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_腦惱(141)",
+    "question": "煩「ㄋㄠˇ」 的國字是？",
+    "speakText": "煩惱",
+    "options": [
+      "惱",
+      "腦",
+      "瑙"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「惱」！(來源：第四課_腦惱(141))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_腦惱(142)",
+    "question": "懊「ㄋㄠˇ」 的國字是？",
+    "speakText": "懊惱",
+    "options": [
+      "惱",
+      "腦",
+      "鬧"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「惱」！(來源：第四課_腦惱(142))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_腦惱(143)",
+    "question": "「ㄋㄠˇ」羞成怒 的國字是？",
+    "speakText": "惱羞成怒",
+    "options": [
+      "惱",
+      "腦",
+      "瑙"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「惱」！(來源：第四課_腦惱(143))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_腦惱(144)",
+    "question": "遇到問題時要多動動「ㄋㄠˇ」筋想辦法",
+    "speakText": "遇到問題時要多動動腦筋想辦法",
+    "options": [
+      "腦",
+      "惱",
+      "瑙"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「腦」！(來源：第四課_腦惱(144))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_腦惱(145)",
+    "question": "為了設計新衣服國王絞盡「ㄋㄠˇ」汁",
+    "speakText": "為了設計新衣服國王絞盡腦汁",
+    "options": [
+      "腦",
+      "惱",
+      "鬧"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「腦」！(來源：第四課_腦惱(145))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_腦惱(146)",
+    "question": "這首廣告歌非常洗「ㄋㄠˇ」讓人聽一次就記住",
+    "speakText": "這首廣告歌非常洗腦讓人聽一次就記住",
+    "options": [
+      "腦",
+      "惱",
+      "瑙"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「腦」！(來源：第四課_腦惱(146))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_腦惱(147)",
+    "question": "把心裡的煩「ㄋㄠˇ」說出來心情會輕鬆許多",
+    "speakText": "把心裡的煩惱說出來心情會輕鬆許多",
+    "options": [
+      "惱",
+      "腦",
+      "鬧"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「惱」！(來源：第四課_腦惱(147))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_腦惱(148)",
+    "question": "因為粗心大意而答錯題目讓他非常懊「ㄋㄠˇ」",
+    "speakText": "因為粗心大意而答錯題目讓他非常懊惱",
+    "options": [
+      "惱",
+      "腦",
+      "瑙"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「惱」！(來源：第四課_腦惱(148))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第四課_腦惱(149)",
+    "question": "被指出錯誤時要虛心改進不要「ㄋㄠˇ」羞成怒",
+    "speakText": "被指出錯誤時要虛心改進不要惱羞成怒",
+    "options": [
+      "惱",
+      "腦",
+      "鬧"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「惱」！(來源：第四課_腦惱(149))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_沙少海每(150)",
+    "question": "「ㄕㄚ」啞 的國字是？",
+    "speakText": "沙啞",
+    "options": [
+      "沙",
+      "少",
+      "海"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「沙」！(來源：第五課_沙少海每(150))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_沙少海每(151)",
+    "question": "聚「ㄕㄚ」成塔 的國字是？",
+    "speakText": "聚沙成塔",
+    "options": [
+      "沙",
+      "少",
+      "每"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「沙」！(來源：第五課_沙少海每(151))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_沙少海每(152)",
+    "question": "減「ㄕㄠˇ」 的國字是？",
+    "speakText": "減少",
+    "options": [
+      "少",
+      "沙",
+      "小"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「少」！(來源：第五課_沙少海每(152))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_沙少海每(153)",
+    "question": "「ㄕㄠˇ」見多怪 的國字是？",
+    "speakText": "少見多怪",
+    "options": [
+      "少",
+      "沙",
+      "海"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「少」！(來源：第五課_沙少海每(153))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_沙少海每(154)",
+    "question": "「ㄏㄞˇ」報 的國字是？",
+    "speakText": "海報",
+    "options": [
+      "海",
+      "每",
+      "沙"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「海」！(來源：第五課_沙少海每(154))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_沙少海每(155)",
+    "question": "大「ㄏㄞˇ」撈針 的國字是？",
+    "speakText": "大海撈針",
+    "options": [
+      "海",
+      "每",
+      "少"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「海」！(來源：第五課_沙少海每(155))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_沙少海每(156)",
+    "question": "「ㄇㄟˇ」當 的國字是？",
+    "speakText": "每當",
+    "options": [
+      "每",
+      "海",
+      "母"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「每」！(來源：第五課_沙少海每(156))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_沙少海每(157)",
+    "question": "「ㄇㄟˇ」況愈下 的國字是？",
+    "speakText": "每況愈下",
+    "options": [
+      "每",
+      "海",
+      "少"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「每」！(來源：第五課_沙少海每(157))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_沙少海每(158)",
+    "question": "加油聲太大讓他的聲音變得「ㄕㄚ」啞了",
+    "speakText": "加油聲太大讓他的聲音變得沙啞了",
+    "options": [
+      "沙",
+      "少",
+      "海"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「沙」！(來源：第五課_沙少海每(158))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_沙少海每(159)",
+    "question": "每天存一點零用錢久了也能聚「ㄕㄚ」成塔",
+    "speakText": "每天存一點零用錢久了也能聚沙成塔",
+    "options": [
+      "沙",
+      "少",
+      "每"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「沙」！(來源：第五課_沙少海每(159))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_沙少海每(160)",
+    "question": "自備購物袋可以減「ㄕㄠˇ」塑膠袋的使用",
+    "speakText": "自備購物袋可以減少塑膠袋的使用",
+    "options": [
+      "少",
+      "沙",
+      "海"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「少」！(來源：第五課_沙少海每(160))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_沙少海每(161)",
+    "question": "這只是一隻普通的甲蟲不用「ㄕㄠˇ」見多怪",
+    "speakText": "這只是一隻普通的甲蟲不用少見多怪",
+    "options": [
+      "少",
+      "沙",
+      "每"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「少」！(來源：第五課_沙少海每(161))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_沙少海每(162)",
+    "question": "布告欄上貼著運動會的宣傳「ㄏㄞˇ」報",
+    "speakText": "布告欄上貼著運動會的宣傳海報",
+    "options": [
+      "海",
+      "每",
+      "沙"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「海」！(來源：第五課_沙少海每(162))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_沙少海每(163)",
+    "question": "在這麼大的草地上找一顆小珠子簡直是大「ㄏㄞˇ」撈針",
+    "speakText": "在這麼大的草地上找一顆小珠子簡直是大海撈針",
+    "options": [
+      "海",
+      "每",
+      "少"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「海」！(來源：第五課_沙少海每(163))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_沙少海每(164)",
+    "question": "「ㄇㄟˇ」當夕陽西下沙灘就會變成金黃色",
+    "speakText": "每當夕陽西下沙灘就會變成金黃色",
+    "options": [
+      "每",
+      "海",
+      "母"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「每」！(來源：第五課_沙少海每(164))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_沙少海每(165)",
+    "question": "如果不愛惜身體健康狀況就會「ㄇㄟˇ」況愈下",
+    "speakText": "如果不愛惜身體健康狀況就會每況愈下",
+    "options": [
+      "每",
+      "海",
+      "沙"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「每」！(來源：第五課_沙少海每(165))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_洞同印迎(166)",
+    "question": "挖「ㄉㄨㄥˋ」 的國字是？",
+    "speakText": "挖洞",
+    "options": [
+      "洞",
+      "同",
+      "銅"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「洞」！(來源：第五課_洞同印迎(166))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_洞同印迎(167)",
+    "question": "「ㄉㄨㄥˋ」窟 的國字是？",
+    "speakText": "洞窟",
+    "options": [
+      "洞",
+      "同",
+      "桐"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「洞」！(來源：第五課_洞同印迎(167))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_洞同印迎(168)",
+    "question": "漏「ㄉㄨㄥˋ」百出 的國字是？",
+    "speakText": "漏洞百出",
+    "options": [
+      "洞",
+      "同",
+      "印"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「洞」！(來源：第五課_洞同印迎(168))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_洞同印迎(169)",
+    "question": "「ㄊㄨㄥˊ」情 的國字是？",
+    "speakText": "同情",
+    "options": [
+      "同",
+      "洞",
+      "迎"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「同」！(來源：第五課_洞同印迎(169))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_洞同印迎(170)",
+    "question": "雷「ㄊㄨㄥˊ」 的國字是？",
+    "speakText": "雷同",
+    "options": [
+      "同",
+      "洞",
+      "銅"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「同」！(來源：第五課_洞同印迎(170))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_洞同印迎(171)",
+    "question": "「ㄊㄨㄥˊ」病相憐 的國字是？",
+    "speakText": "同病相憐",
+    "options": [
+      "同",
+      "洞",
+      "印"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「同」！(來源：第五課_洞同印迎(171))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_洞同印迎(172)",
+    "question": "「ㄧㄣˋ」刷 的國字是？",
+    "speakText": "印刷",
+    "options": [
+      "印",
+      "迎",
+      "洞"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「印」！(來源：第五課_洞同印迎(172))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_洞同印迎(173)",
+    "question": "影「ㄧㄣˋ」 的國字是？",
+    "speakText": "影印",
+    "options": [
+      "印",
+      "迎",
+      "同"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「印」！(來源：第五課_洞同印迎(173))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_洞同印迎(174)",
+    "question": "心心相「ㄧㄣˋ」 的國字是？",
+    "speakText": "心心相印",
+    "options": [
+      "印",
+      "迎",
+      "昂"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「印」！(來源：第五課_洞同印迎(174))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_洞同印迎(175)",
+    "question": "「ㄧㄥˊ」新 的國字是？",
+    "speakText": "迎新",
+    "options": [
+      "迎",
+      "印",
+      "同"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「迎」！(來源：第五課_洞同印迎(175))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_洞同印迎(176)",
+    "question": "恭「ㄧㄥˊ」 的國字是？",
+    "speakText": "恭迎",
+    "options": [
+      "迎",
+      "印",
+      "洞"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「迎」！(來源：第五課_洞同印迎(176))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_洞同印迎(177)",
+    "question": "「ㄧㄥˊ」刃而解 的國字是？",
+    "speakText": "迎刃而解",
+    "options": [
+      "迎",
+      "印",
+      "昂"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「迎」！(來源：第五課_洞同印迎(177))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_洞同印迎(178)",
+    "question": "沙灘上有好多螃蟹挖的小「ㄉㄨㄥˋ」",
+    "speakText": "沙灘上有好多螃蟹挖的小洞",
+    "options": [
+      "洞",
+      "同",
+      "印"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「洞」！(來源：第五課_洞同印迎(178))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_洞同印迎(179)",
+    "question": "這個謊言漏「ㄉㄨㄥˋ」百出一下子就被識破了",
+    "speakText": "這個謊言漏洞百出一下子就被識破了",
+    "options": [
+      "洞",
+      "同",
+      "迎"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「洞」！(來源：第五課_洞同印迎(179))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_洞同印迎(180)",
+    "question": "這兩個故事的內容非常雷「ㄊㄨㄥˊ」",
+    "speakText": "這兩個故事的內容非常雷同",
+    "options": [
+      "同",
+      "洞",
+      "印"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「同」！(來源：第五課_洞同印迎(180))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_洞同印迎(181)",
+    "question": "我們要有「ㄊㄨㄥˊ」情心多幫助有困難的人",
+    "speakText": "我們要有同情心多幫助有困難的人",
+    "options": [
+      "同",
+      "洞",
+      "迎"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「同」！(來源：第五課_洞同印迎(181))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_洞同印迎(182)",
+    "question": "全家人在沙灘上留下大大小小的腳「ㄧㄣˋ」",
+    "speakText": "全家人在沙灘上留下大大小小的腳印",
+    "options": [
+      "印",
+      "迎",
+      "洞"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「印」！(來源：第五課_洞同印迎(182))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_洞同印迎(183)",
+    "question": "這對雙胞胎姊妹非常了解彼此真是心心相「ㄧㄣˋ」",
+    "speakText": "這對雙胞胎姊妹非常了解彼此真是心心相印",
+    "options": [
+      "印",
+      "迎",
+      "同"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「印」！(來源：第五課_洞同印迎(183))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第五課_洞同印迎(184)",
+    "question": "只要找到正確方法難題也能「ㄧㄥˊ」刃而解",
+    "speakText": "只要找到正確方法難題也能迎刃而解",
+    "options": [
+      "迎",
+      "印",
+      "洞"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「迎」！(來源：第五課_洞同印迎(184))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_晴情請睛(185)",
+    "question": "陰「ㄑㄧㄥˊ」不定 的國字是？",
+    "speakText": "陰晴不定",
+    "options": [
+      "晴",
+      "情",
+      "請"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「晴」！(來源：第六課_晴情請睛(185))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_晴情請睛(186)",
+    "question": "表「ㄑㄧㄥˊ」 的國字是？",
+    "speakText": "表情",
+    "options": [
+      "情",
+      "晴",
+      "請"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「情」！(來源：第六課_晴情請睛(186))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_晴情請睛(187)",
+    "question": "「ㄑㄧㄥˊ」況 的國字是？",
+    "speakText": "情況",
+    "options": [
+      "情",
+      "晴",
+      "睛"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「情」！(來源：第六課_晴情請睛(187))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_晴情請睛(188)",
+    "question": "「ㄑㄧㄥˊ」同手足 的國字是？",
+    "speakText": "情同手足",
+    "options": [
+      "情",
+      "晴",
+      "請"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「情」！(來源：第六課_晴情請睛(188))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_晴情請睛(189)",
+    "question": "「ㄑㄧㄥˇ」假 的國字是？",
+    "speakText": "請假",
+    "options": [
+      "請",
+      "情",
+      "晴"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「請」！(來源：第六課_晴情請睛(189))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_晴情請睛(190)",
+    "question": "邀「ㄑㄧㄥˇ」 的國字是？",
+    "speakText": "邀請",
+    "options": [
+      "請",
+      "情",
+      "睛"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「請」！(來源：第六課_晴情請睛(190))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_晴情請睛(191)",
+    "question": "「ㄑㄧㄥˇ」便 的國字是？",
+    "speakText": "請便",
+    "options": [
+      "請",
+      "晴",
+      "情"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「請」！(來源：第六課_晴情請睛(191))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_晴情請睛(192)",
+    "question": "畫龍點「ㄐㄧㄥ」 的國字是？",
+    "speakText": "畫龍點睛",
+    "options": [
+      "睛",
+      "晴",
+      "情"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「睛」！(來源：第六課_晴情請睛(192))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_晴情請睛(193)",
+    "question": "目不轉「ㄐㄧㄥ」 的國字是？",
+    "speakText": "目不轉睛",
+    "options": [
+      "睛",
+      "晴",
+      "請"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「睛」！(來源：第六課_晴情請睛(193))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_晴情請睛(194)",
+    "question": "山上的天氣陰「ㄑㄧㄥˊ」不定要記得帶雨傘",
+    "speakText": "山上的天氣陰晴不定要記得帶雨傘",
+    "options": [
+      "晴",
+      "情",
+      "請"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「晴」！(來源：第六課_晴情請睛(194))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_晴情請睛(195)",
+    "question": "他們兩個人感情非常好就像「ㄑㄧㄥˊ」同手足一樣",
+    "speakText": "他們兩個人感情非常好就像情同手足一樣",
+    "options": [
+      "情",
+      "晴",
+      "睛"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「情」！(來源：第六課_晴情請睛(195))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_晴情請睛(196)",
+    "question": "我寫卡片邀「ㄑㄧㄥˇ」好朋友來參加生日會",
+    "speakText": "我寫卡片邀請好朋友來參加生日會",
+    "options": [
+      "請",
+      "情",
+      "晴"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「請」！(來源：第六課_晴情請睛(196))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_晴情請睛(197)",
+    "question": "今天哥哥發燒生病所以向老師「ㄑㄧㄥˇ」假一天",
+    "speakText": "今天哥哥發燒生病所以向老師請假一天",
+    "options": [
+      "請",
+      "情",
+      "睛"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「請」！(來源：第六課_晴情請睛(197))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_晴情請睛(198)",
+    "question": "弟弟目不轉「ㄐㄧㄥ」地看著草叢裡的螢火蟲",
+    "speakText": "弟弟目不轉睛地看著草叢裡的螢火蟲",
+    "options": [
+      "睛",
+      "晴",
+      "情"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「睛」！(來源：第六課_晴情請睛(198))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_晴情請睛(199)",
+    "question": "這句優美的成語在文章裡有畫龍點「ㄐㄧㄥ」的效果",
+    "speakText": "這句優美的成語在文章裡有畫龍點睛的效果",
+    "options": [
+      "睛",
+      "晴",
+      "請"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「睛」！(來源：第六課_晴情請睛(199))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_晚兔(200)",
+    "question": "「ㄨㄢˇ」輩 的國字是？",
+    "speakText": "晚輩",
+    "options": [
+      "晚",
+      "兔",
+      "免"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「晚」！(來源：第六課_晚兔(200))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_晚兔(201)",
+    "question": "傍「ㄨㄢˇ」 的國字是？",
+    "speakText": "傍晚",
+    "options": [
+      "晚",
+      "兔",
+      "挽"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「晚」！(來源：第六課_晚兔(201))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_晚兔(202)",
+    "question": "早出「ㄨㄢˇ」歸 的國字是？",
+    "speakText": "早出晚歸",
+    "options": [
+      "晚",
+      "兔",
+      "免"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「晚」！(來源：第六課_晚兔(202))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_晚兔(203)",
+    "question": "動如脫「ㄊㄨˋ」 的國字是？",
+    "speakText": "動如脫兔",
+    "options": [
+      "兔",
+      "晚",
+      "免"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「兔」！(來源：第六課_晚兔(203))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_晚兔(204)",
+    "question": "守株待「ㄊㄨˋ」 的國字是？",
+    "speakText": "守株待兔",
+    "options": [
+      "兔",
+      "晚",
+      "免"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「兔」！(來源：第六課_晚兔(204))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_晚兔(205)",
+    "question": "爸爸媽媽為了照顧我們每天辛苦地早出「ㄨㄢˇ」歸",
+    "speakText": "爸爸媽媽為了照顧我們每天辛苦地早出晚歸",
+    "options": [
+      "晚",
+      "兔",
+      "免"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「晚」！(來源：第六課_晚兔(205))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_晚兔(206)",
+    "question": "不努力只想靠運氣成功就像守株待「ㄊㄨˋ」一樣",
+    "speakText": "不努力只想靠運氣成功就像守株待兔一樣",
+    "options": [
+      "兔",
+      "晚",
+      "免"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「兔」！(來源：第六課_晚兔(206))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_晚兔(207)",
+    "question": "他在球場上跑得飛快真是動如脫「ㄊㄨˋ」",
+    "speakText": "他在球場上跑得飛快真是動如脫兔",
+    "options": [
+      "兔",
+      "晚",
+      "免"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「兔」！(來源：第六課_晚兔(207))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_全金(208)",
+    "question": "「ㄑㄩㄢˊ」程 的國字是？",
+    "speakText": "全程",
+    "options": [
+      "全",
+      "金",
+      "王"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「全」！(來源：第六課_全金(208))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_全金(209)",
+    "question": "「ㄑㄩㄢˊ」神貫注 的國字是？",
+    "speakText": "全神貫注",
+    "options": [
+      "全",
+      "金",
+      "企"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「全」！(來源：第六課_全金(209))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_全金(210)",
+    "question": "押「ㄐㄧㄣ」 的國字是？",
+    "speakText": "押金",
+    "options": [
+      "金",
+      "全",
+      "玉"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「金」！(來源：第六課_全金(210))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_全金(211)",
+    "question": "一諾千「ㄐㄧㄣ」 的國字是？",
+    "speakText": "一諾千金",
+    "options": [
+      "金",
+      "全",
+      "企"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「金」！(來源：第六課_全金(211))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_全金(212)",
+    "question": "上課時大家「ㄑㄩㄢˊ」神貫注地聽老師講故事",
+    "speakText": "上課時大家全神貫注地聽老師講故事",
+    "options": [
+      "全",
+      "金",
+      "企"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「全」！(來源：第六課_全金(212))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "第六課_全金(213)",
+    "question": "答應別人的事一定要做到才是一諾千「ㄐㄧㄣ」",
+    "speakText": "答應別人的事一定要做到才是一諾千金",
+    "options": [
+      "金",
+      "全",
+      "王"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「金」！(來源：第六課_全金(213))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_直真(214)",
+    "question": "「ㄓˊ」覺 的國字是？",
+    "speakText": "直覺",
+    "options": [
+      "直",
+      "真",
+      "具"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「直」！(來源：閱讀一_直真(214))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_直真(215)",
+    "question": "急起「ㄓˊ」追 的國字是？",
+    "speakText": "急起直追",
+    "options": [
+      "直",
+      "真",
+      "值"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「直」！(來源：閱讀一_直真(215))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_直真(216)",
+    "question": "「ㄓㄣ」空 的國字是？",
+    "speakText": "真空",
+    "options": [
+      "真",
+      "直",
+      "具"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「真」！(來源：閱讀一_直真(216))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_直真(217)",
+    "question": "千「ㄓㄣ」萬確 的國字是？",
+    "speakText": "千真萬確",
+    "options": [
+      "真",
+      "直",
+      "貞"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「真」！(來源：閱讀一_直真(217))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_機幾(218)",
+    "question": "「ㄐㄧ」密 的國字是？",
+    "speakText": "機密",
+    "options": [
+      "機",
+      "幾",
+      "肌"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「機」！(來源：閱讀一_機幾(218))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_機幾(219)",
+    "question": "隨「ㄐㄧ」應變 的國字是？",
+    "speakText": "隨機應變",
+    "options": [
+      "機",
+      "幾",
+      "奇"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「機」！(來源：閱讀一_機幾(219))",
+    "speechLang": "zh-TW"
+  },
+  {
+    "grade": 2,
+    "subject": "國文",
+    "subjectKey": "chinese",
+    "subBadge": "閱讀一_機幾(220)",
+    "question": "一蹴可「ㄐㄧˇ」 的國字是？",
+    "speakText": "一蹴可幾",
+    "options": [
+      "幾",
+      "機",
+      "肌"
+    ],
+    "answer": 0,
+    "explanation": "正確答案是「幾」！(來源：閱讀一_機幾(220))",
+    "speechLang": "zh-TW"
+  }
+]

@@ -1,6 +1,10 @@
 window.EXTENDED_CHINESE_BANK = [
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_難(1)",
@@ -17,6 +21,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_難(2)",
@@ -32,7 +40,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_難(3)",
@@ -49,6 +61,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_難(4)",
@@ -64,7 +80,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_難(5)",
@@ -81,6 +101,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_難(6)",
@@ -96,7 +120,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_難(7)",
@@ -113,6 +141,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_難(8)",
@@ -128,7 +160,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_難(9)",
@@ -145,6 +181,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_難(10)",
@@ -160,7 +200,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_難(11)",
@@ -177,6 +221,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_難(12)",
@@ -192,7 +240,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_難(13)",
@@ -209,6 +261,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_難(14)",
@@ -224,7 +280,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_難(15)",
@@ -241,6 +301,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_難(16)",
@@ -257,6 +321,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_為(17)",
@@ -273,6 +341,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_為(18)",
@@ -289,6 +361,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_為(19)",
@@ -305,6 +381,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_為(20)",
@@ -321,6 +401,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_為(21)",
@@ -337,6 +421,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_為(22)",
@@ -353,6 +441,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_為(23)",
@@ -369,6 +461,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_為(24)",
@@ -385,6 +481,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_為(25)",
@@ -401,6 +501,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_為(26)",
@@ -417,6 +521,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_為(27)",
@@ -433,6 +541,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_為(28)",
@@ -449,6 +561,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_為(29)",
@@ -465,6 +581,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_為(30)",
@@ -481,6 +601,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_為(31)",
@@ -497,6 +621,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_為(32)",
@@ -513,6 +641,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_轉(33)",
@@ -529,6 +661,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_轉(34)",
@@ -545,6 +681,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_轉(35)",
@@ -561,6 +701,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_轉(36)",
@@ -577,6 +721,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_轉(37)",
@@ -593,6 +741,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_轉(38)",
@@ -609,6 +761,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_轉(39)",
@@ -625,6 +781,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_轉(40)",
@@ -641,6 +801,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_轉(41)",
@@ -657,6 +821,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_轉(42)",
@@ -673,22 +841,30 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_轉(43)",
   "question": "彩色風車在風中飛快地旋「轉」",
   "speakText": "彩色風車在風中飛快地旋什麼",
   "options": [
-   "ㄓㄨㄢˇ",
    "ㄓㄨㄢˋ",
+   "ㄓㄨㄢˇ",
    "ㄗㄨㄢˋ"
   ],
   "answer": 0,
-  "explanation": "正確答案是「ㄓㄨㄢˇ」！依教育部《國語一字多音審訂表》，「旋轉」標準讀音為「ㄒㄩㄢˊ ㄓㄨㄢˇ」（三聲）。(來源：第二課_轉(43))",
+  "explanation": "正確答案是「ㄓㄨㄢˋ」！(來源：第二課_轉(43))",
   "speechLang": "zh-TW"
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_轉(44)",
@@ -705,6 +881,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_轉(45)",
@@ -721,6 +901,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_轉(46)",
@@ -737,6 +921,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_轉(47)",
@@ -753,6 +941,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_轉(48)",
@@ -769,6 +961,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_只(49)",
@@ -784,7 +980,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_只(50)",
@@ -801,6 +1001,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_只(51)",
@@ -816,7 +1020,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_只(52)",
@@ -833,6 +1041,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_只(53)",
@@ -848,7 +1060,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_只(54)",
@@ -865,6 +1081,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_只(55)",
@@ -880,7 +1100,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_只(56)",
@@ -897,6 +1121,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_只(57)",
@@ -912,7 +1140,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_只(58)",
@@ -929,6 +1161,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_只(59)",
@@ -944,7 +1180,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_只(60)",
@@ -961,6 +1201,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_只(61)",
@@ -976,7 +1220,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_只(62)",
@@ -993,6 +1241,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_只(63)",
@@ -1008,7 +1260,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_只(64)",
@@ -1025,6 +1281,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_分(65)",
@@ -1040,7 +1300,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_分(66)",
@@ -1057,6 +1321,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_分(67)",
@@ -1072,7 +1340,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_分(68)",
@@ -1089,6 +1361,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_分(69)",
@@ -1104,7 +1380,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_分(70)",
@@ -1121,6 +1401,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_分(71)",
@@ -1136,7 +1420,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_分(72)",
@@ -1153,6 +1441,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_分(73)",
@@ -1168,7 +1460,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_分(74)",
@@ -1185,6 +1481,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_分(75)",
@@ -1200,7 +1500,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_分(76)",
@@ -1217,6 +1521,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_分(77)",
@@ -1232,7 +1540,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_分(78)",
@@ -1249,6 +1561,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_分(79)",
@@ -1264,7 +1580,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_分(80)",
@@ -1281,6 +1601,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_分(81)",
@@ -1296,7 +1620,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_分(82)",
@@ -1313,6 +1641,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_法(83)",
@@ -1328,7 +1660,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_法(84)",
@@ -1345,6 +1681,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_法(85)",
@@ -1360,7 +1700,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_法(86)",
@@ -1377,6 +1721,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_法(87)",
@@ -1392,7 +1740,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_法(88)",
@@ -1409,6 +1761,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_法(89)",
@@ -1424,7 +1780,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_法(90)",
@@ -1441,6 +1801,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_法(91)",
@@ -1456,7 +1820,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_法(92)",
@@ -1473,6 +1841,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_法(93)",
@@ -1488,7 +1860,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_法(94)",
@@ -1505,6 +1881,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_法(95)",
@@ -1520,7 +1900,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_法(96)",
@@ -1537,6 +1921,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_法(97)",
@@ -1552,7 +1940,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_法(98)",
@@ -1568,7 +1960,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_呱(99)",
@@ -1584,7 +1980,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_呱(100)",
@@ -1600,7 +2000,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_呱(101)",
@@ -1616,7 +2020,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_呱(102)",
@@ -1632,7 +2040,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_呱(103)",
@@ -1648,7 +2060,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_呱(104)",
@@ -1664,7 +2080,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_呱(105)",
@@ -1680,7 +2100,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_呱(106)",
@@ -1696,7 +2120,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_呱(107)",
@@ -1712,7 +2140,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_呱(108)",
@@ -1728,7 +2160,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_呱(109)",
@@ -1744,7 +2180,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_呱(110)",
@@ -1760,7 +2200,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_呱(111)",
@@ -1776,7 +2220,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_呱(112)",
@@ -1792,7 +2240,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_呱(113)",
@@ -1808,7 +2260,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_蝦(114)",
@@ -1824,7 +2280,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_蝦(115)",
@@ -1840,7 +2300,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_蝦(116)",
@@ -1856,7 +2320,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_蝦(117)",
@@ -1872,7 +2340,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_蝦(118)",
@@ -1888,7 +2360,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_蝦(119)",
@@ -1904,7 +2380,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_蝦(120)",
@@ -1920,7 +2400,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_蝦(121)",
@@ -1936,7 +2420,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_蝦(122)",
@@ -1952,7 +2440,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_蝦(123)",
@@ -1968,7 +2460,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_蝦(124)",
@@ -1984,7 +2480,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_蝦(125)",
@@ -2000,7 +2500,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_蝦(126)",
@@ -2016,7 +2520,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_蝦(127)",
@@ -2032,7 +2540,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_蝦(128)",
@@ -2048,7 +2560,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_橫(129)",
@@ -2064,7 +2580,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_橫(130)",
@@ -2080,7 +2600,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_橫(131)",
@@ -2096,7 +2620,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_橫(132)",
@@ -2112,7 +2640,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_橫(133)",
@@ -2128,7 +2660,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_橫(134)",
@@ -2144,7 +2680,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_橫(135)",
@@ -2160,7 +2700,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_橫(136)",
@@ -2176,7 +2720,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_橫(137)",
@@ -2192,7 +2740,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_橫(138)",
@@ -2208,7 +2760,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_橫(139)",
@@ -2224,7 +2780,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_橫(140)",
@@ -2240,7 +2800,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_橫(141)",
@@ -2256,7 +2820,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_橫(142)",
@@ -2272,7 +2840,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_橫(143)",
@@ -2288,7 +2860,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_橫(144)",
@@ -2304,7 +2880,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_麗(145)",
@@ -2320,7 +2900,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_麗(146)",
@@ -2336,7 +2920,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_麗(147)",
@@ -2352,7 +2940,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_麗(148)",
@@ -2368,7 +2960,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_麗(149)",
@@ -2384,7 +2980,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_麗(150)",
@@ -2400,7 +3000,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_麗(151)",
@@ -2416,7 +3020,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_麗(152)",
@@ -2432,7 +3040,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_麗(153)",
@@ -2448,7 +3060,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_麗(154)",
@@ -2464,7 +3080,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_麗(155)",
@@ -2480,7 +3100,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_麗(156)",
@@ -2496,7 +3120,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_麗(157)",
@@ -2512,7 +3140,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_麗(158)",
@@ -2528,7 +3160,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_麗(159)",
@@ -2544,7 +3180,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_散(160)",
@@ -2560,7 +3200,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_散(161)",
@@ -2576,7 +3220,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_散(162)",
@@ -2592,7 +3240,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_散(163)",
@@ -2608,7 +3260,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_散(164)",
@@ -2624,7 +3280,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_散(165)",
@@ -2640,7 +3300,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_散(166)",
@@ -2656,7 +3320,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_散(167)",
@@ -2672,7 +3340,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_散(168)",
@@ -2688,7 +3360,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_散(169)",
@@ -2704,7 +3380,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_散(170)",
@@ -2720,7 +3400,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_散(171)",
@@ -2736,7 +3420,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_散(172)",
@@ -2752,7 +3440,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_散(173)",
@@ -2768,7 +3460,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_散(174)",
@@ -2784,7 +3480,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_散(175)",
@@ -2800,7 +3500,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_散(176)",
@@ -2816,7 +3520,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_說(177)",
@@ -2832,7 +3540,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 6,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_說(178)",
@@ -2848,7 +3560,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_說(179)",
@@ -2864,7 +3580,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 6,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_說(180)",
@@ -2880,7 +3600,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_說(181)",
@@ -2896,7 +3620,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 6,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_說(182)",
@@ -2912,7 +3640,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_說(183)",
@@ -2928,7 +3660,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 6,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_說(184)",
@@ -2944,7 +3680,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_說(185)",
@@ -2960,7 +3700,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 6,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_說(186)",
@@ -2976,7 +3720,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_說(187)",
@@ -2992,7 +3740,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 6,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_說(188)",
@@ -3008,7 +3760,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_說(189)",
@@ -3024,7 +3780,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 6,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_說(190)",
@@ -3040,7 +3800,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_說(191)",
@@ -3056,7 +3820,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 6,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_說(192)",
@@ -3072,7 +3840,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_行(193)",
@@ -3088,7 +3860,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 6,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_行(194)",
@@ -3104,7 +3880,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_行(195)",
@@ -3120,7 +3900,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 6,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_行(196)",
@@ -3136,7 +3920,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_行(197)",
@@ -3152,7 +3940,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 6,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_行(198)",
@@ -3168,7 +3960,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_行(199)",
@@ -3184,7 +3980,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 6,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_行(200)",
@@ -3200,7 +4000,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_行(201)",
@@ -3216,7 +4020,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 6,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_行(202)",
@@ -3232,7 +4040,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_行(203)",
@@ -3248,7 +4060,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 6,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_行(204)",
@@ -3264,7 +4080,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_行(205)",
@@ -3280,7 +4100,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 6,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_行(206)",
@@ -3296,7 +4120,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_行(207)",
@@ -3312,7 +4140,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 6,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_行(208)",
@@ -3328,7 +4160,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_行(209)",
@@ -3344,7 +4180,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 6,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_行(210)",
@@ -3360,7 +4200,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_行(211)",
@@ -3376,7 +4220,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 6,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_行(212)",
@@ -3392,7 +4240,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_後候(1)",
@@ -3409,6 +4261,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_後候(2)",
@@ -3424,7 +4280,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_後候(3)",
@@ -3441,6 +4301,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_後候(4)",
@@ -3456,7 +4320,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_後候(5)",
@@ -3473,6 +4341,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_後候(6)",
@@ -3488,7 +4360,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_後候(7)",
@@ -3505,6 +4381,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_後候(8)",
@@ -3520,7 +4400,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_後候(9)",
@@ -3537,6 +4421,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_後候(10)",
@@ -3552,7 +4440,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_後候(11)",
@@ -3569,6 +4461,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_後候(12)",
@@ -3584,7 +4480,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_後候(13)",
@@ -3601,6 +4501,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_後候(14)",
@@ -3616,7 +4520,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_後候(15)",
@@ -3633,6 +4541,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_青晴猜(16)",
@@ -3648,7 +4560,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_青晴猜(17)",
@@ -3665,6 +4581,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_青晴猜(18)",
@@ -3680,7 +4600,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_青晴猜(19)",
@@ -3697,6 +4621,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_青晴猜(20)",
@@ -3712,7 +4640,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_青晴猜(21)",
@@ -3729,6 +4661,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_青晴猜(22)",
@@ -3744,7 +4680,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_青晴猜(23)",
@@ -3761,6 +4701,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_青晴猜(24)",
@@ -3776,7 +4720,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_青晴猜(25)",
@@ -3793,6 +4741,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_青晴猜(26)",
@@ -3808,7 +4760,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_青晴猜(27)",
@@ -3825,6 +4781,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_青晴猜(28)",
@@ -3840,7 +4800,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_青晴猜(29)",
@@ -3857,6 +4821,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_青晴猜(30)",
@@ -3872,7 +4840,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_青晴猜(31)",
@@ -3889,6 +4861,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_青晴猜(32)",
@@ -3904,7 +4880,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_烏鳥(33)",
@@ -3921,6 +4901,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_烏鳥(34)",
@@ -3936,7 +4920,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_烏鳥(35)",
@@ -3953,6 +4941,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_烏鳥(36)",
@@ -3968,7 +4960,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_烏鳥(37)",
@@ -3985,6 +4981,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_烏鳥(38)",
@@ -4000,7 +5000,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_烏鳥(39)",
@@ -4017,6 +5021,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_烏鳥(40)",
@@ -4032,7 +5040,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_烏鳥(41)",
@@ -4049,6 +5061,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_烏鳥(42)",
@@ -4064,7 +5080,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_密蜜(43)",
@@ -4081,6 +5101,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_密蜜(44)",
@@ -4096,7 +5120,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_密蜜(45)",
@@ -4113,6 +5141,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_密蜜(46)",
@@ -4128,7 +5160,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_密蜜(47)",
@@ -4145,6 +5181,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_密蜜(48)",
@@ -4160,7 +5200,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_密蜜(49)",
@@ -4177,6 +5221,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_密蜜(50)",
@@ -4192,7 +5240,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_密蜜(51)",
@@ -4209,6 +5261,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_密蜜(52)",
@@ -4224,7 +5280,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_虹紅(53)",
@@ -4241,6 +5301,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_虹紅(54)",
@@ -4256,7 +5320,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_虹紅(55)",
@@ -4273,6 +5341,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_虹紅(56)",
@@ -4288,7 +5360,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_虹紅(57)",
@@ -4305,6 +5381,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_虹紅(58)",
@@ -4320,7 +5400,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_虹紅(59)",
@@ -4337,6 +5421,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_虹紅(60)",
@@ -4352,7 +5440,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 1,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第一課_虹紅(61)",
@@ -4369,6 +5461,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_如知(62)",
@@ -4385,6 +5481,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_如知(63)",
@@ -4401,6 +5501,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_如知(64)",
@@ -4417,6 +5521,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_如知(65)",
@@ -4433,6 +5541,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_如知(66)",
@@ -4449,6 +5561,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_如知(67)",
@@ -4465,6 +5581,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_如知(68)",
@@ -4481,6 +5601,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_如知(69)",
@@ -4497,6 +5621,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_如知(70)",
@@ -4513,6 +5641,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_如知(71)",
@@ -4529,6 +5661,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_如知(72)",
@@ -4545,6 +5681,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_如知(73)",
@@ -4561,6 +5701,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_如知(74)",
@@ -4577,6 +5721,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_道到(75)",
@@ -4593,6 +5741,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_道到(76)",
@@ -4609,6 +5761,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_道到(77)",
@@ -4625,6 +5781,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_道到(78)",
@@ -4641,6 +5801,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_道到(79)",
@@ -4657,6 +5821,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_道到(80)",
@@ -4673,6 +5841,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_道到(81)",
@@ -4689,6 +5861,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_道到(82)",
@@ -4705,6 +5881,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_道到(83)",
@@ -4721,6 +5901,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_道到(84)",
@@ -4737,6 +5921,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_道到(85)",
@@ -4753,6 +5941,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_道到(86)",
@@ -4769,6 +5961,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第二課_道到(87)",
@@ -4784,7 +5980,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_越趕(88)",
@@ -4801,6 +6001,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_越趕(89)",
@@ -4816,7 +6020,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_越趕(90)",
@@ -4833,6 +6041,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_越趕(91)",
@@ -4848,7 +6060,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_越趕(92)",
@@ -4865,6 +6081,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_越趕(93)",
@@ -4880,7 +6100,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_越趕(94)",
@@ -4897,6 +6121,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_越趕(95)",
@@ -4912,7 +6140,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_越趕(96)",
@@ -4929,6 +6161,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_越趕(97)",
@@ -4944,7 +6180,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_越趕(98)",
@@ -4961,6 +6201,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_越趕(99)",
@@ -4976,7 +6220,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_王玉(100)",
@@ -4993,6 +6241,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_王玉(101)",
@@ -5008,7 +6260,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_王玉(102)",
@@ -5025,6 +6281,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_王玉(103)",
@@ -5040,7 +6300,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_王玉(104)",
@@ -5057,6 +6321,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_王玉(105)",
@@ -5072,7 +6340,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_王玉(106)",
@@ -5089,6 +6361,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_王玉(107)",
@@ -5104,7 +6380,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_王玉(108)",
@@ -5121,6 +6401,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_王玉(109)",
@@ -5136,7 +6420,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_王玉(110)",
@@ -5153,6 +6441,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_王玉(111)",
@@ -5168,7 +6460,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_歡觀(112)",
@@ -5185,6 +6481,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_歡觀(113)",
@@ -5200,7 +6500,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_歡觀(114)",
@@ -5217,6 +6521,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_歡觀(115)",
@@ -5232,7 +6540,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_歡觀(116)",
@@ -5249,6 +6561,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_歡觀(117)",
@@ -5264,7 +6580,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_歡觀(118)",
@@ -5281,6 +6601,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_歡觀(119)",
@@ -5296,7 +6620,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_歡觀(120)",
@@ -5313,6 +6641,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_歡觀(121)",
@@ -5328,7 +6660,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_歡觀(122)",
@@ -5345,6 +6681,10 @@ window.EXTENDED_CHINESE_BANK = [
  },
  {
   "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_歡觀(123)",
@@ -5360,7 +6700,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第三課_歡觀(124)",
@@ -5376,7 +6720,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_進近(125)",
@@ -5392,7 +6740,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_進近(126)",
@@ -5408,7 +6760,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_進近(127)",
@@ -5424,7 +6780,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_進近(128)",
@@ -5440,7 +6800,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_進近(129)",
@@ -5456,7 +6820,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_進近(130)",
@@ -5472,7 +6840,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_進近(131)",
@@ -5488,7 +6860,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_進近(132)",
@@ -5504,7 +6880,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_進近(133)",
@@ -5520,7 +6900,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_進近(134)",
@@ -5536,7 +6920,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_進近(135)",
@@ -5552,7 +6940,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_進近(136)",
@@ -5568,7 +6960,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_進近(137)",
@@ -5584,7 +6980,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_腦惱(138)",
@@ -5600,7 +7000,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_腦惱(139)",
@@ -5616,7 +7020,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_腦惱(140)",
@@ -5632,7 +7040,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_腦惱(141)",
@@ -5648,7 +7060,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_腦惱(142)",
@@ -5664,7 +7080,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_腦惱(143)",
@@ -5680,7 +7100,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_腦惱(144)",
@@ -5696,7 +7120,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_腦惱(145)",
@@ -5712,7 +7140,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_腦惱(146)",
@@ -5728,7 +7160,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_腦惱(147)",
@@ -5744,7 +7180,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_腦惱(148)",
@@ -5760,7 +7200,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第四課_腦惱(149)",
@@ -5776,7 +7220,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_沙少海每(150)",
@@ -5792,7 +7240,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_沙少海每(151)",
@@ -5808,7 +7260,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_沙少海每(152)",
@@ -5824,7 +7280,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_沙少海每(153)",
@@ -5840,7 +7300,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_沙少海每(154)",
@@ -5856,7 +7320,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_沙少海每(155)",
@@ -5872,7 +7340,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_沙少海每(156)",
@@ -5888,7 +7360,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_沙少海每(157)",
@@ -5904,7 +7380,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_沙少海每(158)",
@@ -5920,7 +7400,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_沙少海每(159)",
@@ -5936,7 +7420,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_沙少海每(160)",
@@ -5952,7 +7440,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_沙少海每(161)",
@@ -5968,7 +7460,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_沙少海每(162)",
@@ -5984,7 +7480,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_沙少海每(163)",
@@ -6000,7 +7500,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_沙少海每(164)",
@@ -6016,7 +7520,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_沙少海每(165)",
@@ -6032,7 +7540,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_洞同印迎(166)",
@@ -6048,7 +7560,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_洞同印迎(167)",
@@ -6064,7 +7580,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_洞同印迎(168)",
@@ -6080,7 +7600,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_洞同印迎(169)",
@@ -6096,7 +7620,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_洞同印迎(170)",
@@ -6112,7 +7640,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_洞同印迎(171)",
@@ -6128,7 +7660,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_洞同印迎(172)",
@@ -6144,7 +7680,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_洞同印迎(173)",
@@ -6160,7 +7700,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_洞同印迎(174)",
@@ -6176,7 +7720,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_洞同印迎(175)",
@@ -6192,7 +7740,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_洞同印迎(176)",
@@ -6208,7 +7760,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_洞同印迎(177)",
@@ -6224,7 +7780,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_洞同印迎(178)",
@@ -6240,7 +7800,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_洞同印迎(179)",
@@ -6256,7 +7820,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_洞同印迎(180)",
@@ -6272,7 +7840,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_洞同印迎(181)",
@@ -6288,7 +7860,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_洞同印迎(182)",
@@ -6304,7 +7880,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 3,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_洞同印迎(183)",
@@ -6320,7 +7900,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第五課_洞同印迎(184)",
@@ -6336,7 +7920,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_晴情請睛(185)",
@@ -6352,7 +7940,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_晴情請睛(186)",
@@ -6368,7 +7960,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_晴情請睛(187)",
@@ -6384,7 +7980,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_晴情請睛(188)",
@@ -6400,7 +8000,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_晴情請睛(189)",
@@ -6416,7 +8020,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_晴情請睛(190)",
@@ -6432,7 +8040,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_晴情請睛(191)",
@@ -6448,7 +8060,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_晴情請睛(192)",
@@ -6464,7 +8080,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_晴情請睛(193)",
@@ -6480,7 +8100,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_晴情請睛(194)",
@@ -6496,7 +8120,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_晴情請睛(195)",
@@ -6512,7 +8140,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_晴情請睛(196)",
@@ -6528,7 +8160,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_晴情請睛(197)",
@@ -6544,7 +8180,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_晴情請睛(198)",
@@ -6560,7 +8200,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_晴情請睛(199)",
@@ -6576,7 +8220,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_晚兔(200)",
@@ -6592,7 +8240,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_晚兔(201)",
@@ -6608,7 +8260,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_晚兔(202)",
@@ -6624,7 +8280,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_晚兔(203)",
@@ -6640,7 +8300,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_晚兔(204)",
@@ -6656,7 +8320,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_晚兔(205)",
@@ -6672,7 +8340,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_晚兔(206)",
@@ -6688,7 +8360,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_晚兔(207)",
@@ -6704,7 +8380,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_全金(208)",
@@ -6720,7 +8400,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_全金(209)",
@@ -6736,7 +8420,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_全金(210)",
@@ -6752,7 +8440,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_全金(211)",
@@ -6768,7 +8460,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_全金(212)",
@@ -6784,7 +8480,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 4,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "第六課_全金(213)",
@@ -6800,7 +8500,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 6,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_直真(214)",
@@ -6816,7 +8520,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_直真(215)",
@@ -6832,7 +8540,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 6,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_直真(216)",
@@ -6848,7 +8560,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_直真(217)",
@@ -6864,7 +8580,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 6,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_機幾(218)",
@@ -6880,7 +8600,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 5,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_機幾(219)",
@@ -6896,7 +8620,11 @@ window.EXTENDED_CHINESE_BANK = [
   "speechLang": "zh-TW"
  },
  {
-  "grade": 6,
+  "grade": 2,
+  "grades": [
+   2
+  ],
+  "rawGrade": "二",
   "subject": "國文",
   "subjectKey": "chinese",
   "subBadge": "閱讀一_機幾(220)",

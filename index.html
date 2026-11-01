@@ -900,6 +900,392 @@
       font-weight: 600;
       margin-top: 4px;
     }
+
+    /* =====================================================================
+       Player Profile Card & ID Login Styles
+       ===================================================================== */
+    .player-profile-card {
+      margin-top: 14px;
+      margin-bottom: 8px;
+      background: rgba(18, 24, 44, 0.88);
+      border: 1.5px solid rgba(0, 245, 212, 0.35);
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.45), inset 0 0 16px rgba(0, 245, 212, 0.08);
+      border-radius: 18px;
+      padding: 14px 18px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      transition: all 0.3s ease;
+      text-align: left;
+    }
+    .player-profile-main {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      flex-wrap: wrap;
+    }
+    .player-avatar-icon {
+      font-size: 32px;
+      width: 48px;
+      height: 48px;
+      border-radius: 50%;
+      background: rgba(0, 245, 212, 0.15);
+      border: 1.5px solid rgba(0, 245, 212, 0.4);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+    .player-info-text {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      flex: 1;
+      min-width: 260px;
+    }
+    .player-name-line {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+    .player-title-label {
+      font-size: 13px;
+      color: #94A3B8;
+      font-weight: 600;
+    }
+    .player-id-name {
+      font-size: 17px;
+      font-weight: 900;
+      color: #FCD34D;
+      letter-spacing: 0.5px;
+      padding: 2px 10px;
+      background: rgba(245, 158, 11, 0.18);
+      border-radius: 8px;
+      border: 1px solid rgba(245, 158, 11, 0.4);
+    }
+    .player-login-btn {
+      background: linear-gradient(135deg, rgba(0, 245, 212, 0.2), rgba(0, 187, 249, 0.2));
+      border: 1.2px solid #00F5D4;
+      color: #00F5D4;
+      font-size: 12px;
+      font-weight: 700;
+      padding: 5px 12px;
+      border-radius: 14px;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      transition: all 0.2s;
+    }
+    .player-login-btn:hover {
+      background: #00F5D4;
+      color: #070A14;
+      transform: translateY(-1px);
+      box-shadow: 0 4px 12px rgba(0, 245, 212, 0.4);
+    }
+    .player-reset-btn {
+      background: rgba(239, 68, 68, 0.12);
+      border: 1px solid rgba(239, 68, 68, 0.4);
+      color: #F87171;
+      font-size: 12px;
+      font-weight: 700;
+      padding: 5px 12px;
+      border-radius: 14px;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      transition: all 0.2s;
+    }
+    .player-reset-btn:hover {
+      background: rgba(239, 68, 68, 0.25);
+      color: #FFFFFF;
+      border-color: #EF4444;
+      transform: translateY(-1px);
+    }
+    .player-stats-line {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+    .streak-pill {
+      font-size: 11px;
+      font-weight: 700;
+      padding: 3px 10px;
+      border-radius: 14px;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+    }
+    .streak-pill.streak-2 {
+      background: rgba(245, 158, 11, 0.15);
+      border: 1px solid rgba(245, 158, 11, 0.4);
+      color: #FCD34D;
+    }
+    .streak-pill.streak-1 {
+      background: rgba(59, 130, 246, 0.15);
+      border: 1px solid rgba(59, 130, 246, 0.4);
+      color: #60A5FA;
+    }
+    .user-header-btn {
+      background: rgba(245, 158, 11, 0.18);
+      border: 1.2px solid rgba(245, 158, 11, 0.5);
+      color: #FCD34D;
+      font-size: 13px;
+      font-weight: 700;
+      padding: 6px 14px;
+      border-radius: 18px;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.2s;
+    }
+    .user-header-btn:hover {
+      background: rgba(245, 158, 11, 0.35);
+      color: #FFFFFF;
+      box-shadow: 0 0 12px rgba(245, 158, 11, 0.4);
+    }
+    .user-chip {
+      background: rgba(255, 255, 255, 0.08);
+      border: 1px solid rgba(255, 255, 255, 0.18);
+      color: #E2E8F0;
+      font-size: 12px;
+      font-weight: 600;
+      padding: 4px 10px;
+      border-radius: 16px;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.2s;
+    }
+    .user-chip:hover {
+      background: rgba(0, 245, 212, 0.2);
+      border-color: #00F5D4;
+      color: #00F5D4;
+    }
+    .user-chip.active {
+      background: rgba(0, 245, 212, 0.25);
+      border-color: #00F5D4;
+      color: #00F5D4;
+      font-weight: 700;
+    }
+    .user-chip .del-btn {
+      font-size: 13px;
+      opacity: 0.6;
+      cursor: pointer;
+    }
+    .user-chip .del-btn:hover {
+      opacity: 1;
+      color: #EF4444;
+    }
+
+    /* =====================================================================
+       Google Apps Script (GAS) API Configuration Modal Styles
+       ===================================================================== */
+    .gas-modal-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      background: rgba(5, 7, 14, 0.85);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 99999;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.3s ease;
+      padding: 16px;
+    }
+    .gas-modal-overlay.active {
+      opacity: 1;
+      pointer-events: auto;
+    }
+    .gas-modal-card {
+      background: #12182c;
+      border: 1.5px solid rgba(0, 245, 212, 0.4);
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.85), 0 0 24px rgba(0, 245, 212, 0.2);
+      border-radius: 20px;
+      width: 100%;
+      max-width: 580px;
+      max-height: 90vh;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      animation: gasModalPop 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+    @keyframes gasModalPop {
+      0% { transform: scale(0.92); opacity: 0; }
+      100% { transform: scale(1); opacity: 1; }
+    }
+    .gas-modal-header {
+      padding: 16px 22px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+      background: rgba(255, 255, 255, 0.03);
+    }
+    .gas-modal-title {
+      font-size: 18px;
+      font-weight: 800;
+      color: #00F5D4;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .gas-modal-close {
+      background: transparent;
+      border: none;
+      color: #94A3B8;
+      font-size: 20px;
+      cursor: pointer;
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.2s;
+    }
+    .gas-modal-close:hover {
+      background: rgba(239, 68, 68, 0.2);
+      color: #EF4444;
+    }
+    .gas-modal-body {
+      padding: 22px;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+    .gas-modal-desc {
+      font-size: 14px;
+      color: #94A3B8;
+      line-height: 1.6;
+    }
+    .gas-field-group {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    .gas-field-label {
+      font-size: 13px;
+      font-weight: 700;
+      color: #FCD34D;
+    }
+    .gas-input {
+      width: 100%;
+      padding: 12px 16px;
+      border-radius: 12px;
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      background: rgba(7, 10, 20, 0.8);
+      color: #FFFFFF;
+      font-size: 14px;
+      outline: none;
+      transition: border-color 0.2s, box-shadow 0.2s;
+      font-family: inherit;
+    }
+    .gas-input:focus {
+      border-color: #00F5D4;
+      box-shadow: 0 0 12px rgba(0, 245, 212, 0.35);
+    }
+    .gas-status-box {
+      padding: 12px 16px;
+      border-radius: 12px;
+      font-size: 13px;
+      line-height: 1.5;
+      font-weight: 600;
+    }
+    .gas-status-box.loading {
+      background: rgba(0, 187, 249, 0.15);
+      border: 1px solid #00BBF9;
+      color: #38BDF8;
+    }
+    .gas-status-box.success {
+      background: rgba(16, 185, 129, 0.15);
+      border: 1px solid #10B981;
+      color: #34D399;
+    }
+    .gas-status-box.error {
+      background: rgba(239, 68, 68, 0.15);
+      border: 1px solid #EF4444;
+      color: #F87171;
+    }
+    .gas-action-row {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    .gas-btn {
+      padding: 10px 18px;
+      border-radius: 12px;
+      font-size: 14px;
+      font-weight: 700;
+      cursor: pointer;
+      border: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      transition: all 0.2s;
+    }
+    .gas-btn-primary {
+      background: linear-gradient(135deg, #00F5D4, #00BBF9);
+      color: #070A14;
+    }
+    .gas-btn-primary:hover:not(:disabled) {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 18px rgba(0, 245, 212, 0.4);
+    }
+    .gas-btn-primary:disabled {
+      opacity: 0.6;
+      cursor: not-allowed;
+    }
+    .gas-btn-secondary {
+      background: rgba(255, 255, 255, 0.08);
+      color: #CBD5E1;
+      border: 1px solid rgba(255, 255, 255, 0.15);
+    }
+    .gas-btn-secondary:hover {
+      background: rgba(255, 255, 255, 0.15);
+      color: #FFFFFF;
+    }
+    .gas-guide-box {
+      margin-top: 6px;
+      background: rgba(0, 0, 0, 0.25);
+      border: 1px dashed rgba(255, 255, 255, 0.15);
+      border-radius: 12px;
+      padding: 14px 16px;
+    }
+    .gas-guide-title {
+      font-size: 13px;
+      font-weight: 700;
+      color: #FCD34D;
+      margin-bottom: 8px;
+    }
+    .gas-guide-list {
+      padding-left: 20px;
+      font-size: 12px;
+      color: #94A3B8;
+      line-height: 1.7;
+    }
+    .gas-guide-list strong {
+      color: #E2E8F0;
+    }
+    .gas-guide-list code {
+      background: rgba(255, 255, 255, 0.1);
+      padding: 2px 6px;
+      border-radius: 4px;
+      color: #00F5D4;
+      font-family: monospace;
+    }
   </style>
 </head>
 <body>
@@ -916,13 +1302,15 @@
         <div>
           <div class="brand-title" id="brand-title">死亡鬼屋・特警除殭</div>
           <div class="brand-sub" id="brand-sub">第一人稱 FPS 光線槍・3D 殭屍直撲逼近・爆頭除殭</div>
-          <!-- Dynamic Google Sheets CSV Connection Status Pill -->
-          <div id="sheet-loading-indicator" style="margin: 10px auto 14px; display: inline-flex; align-items: center; justify-content: center; gap: 8px; padding: 6px 16px; border-radius: 20px; font-size: 13px; font-weight: 700; background: rgba(0, 245, 212, 0.12); border: 1.2px solid rgba(0, 245, 212, 0.4); color: #00F5D4; transition: all 0.4s ease; max-width: 520px;">
-            <span>📡</span> 正在從 Google Sheets 動態載入最新雲端題庫 (國文 & 英文)...
+          <!-- Dynamic Google Apps Script & Sheets Connection Status Pill -->
+          <div id="sheet-loading-indicator" onclick="openGasModal()" title="點擊設定 Google Apps Script 題庫網址" style="margin: 10px auto 14px; display: inline-flex; align-items: center; justify-content: center; gap: 8px; padding: 6px 16px; border-radius: 20px; font-size: 13px; font-weight: 700; background: rgba(0, 245, 212, 0.12); border: 1.2px solid rgba(0, 245, 212, 0.4); color: #00F5D4; transition: all 0.4s ease; max-width: 540px; cursor: pointer;">
+            <span>📡</span> 正在透過 Google Apps Script 動態載入最新雲端題庫...
           </div>
         </div>
       </div>
       <div class="header-controls">
+        <button class="user-header-btn" id="header-user-btn" onclick="openLoginModal()" title="目前學員：點此登入或切換 ID">👤 <span id="header-user-name">特警一號</span></button>
+        <button class="icon-btn" id="gas-settings-btn" onclick="openGasModal()" title="題庫 API 設定 (Google Apps Script)">⚙️</button>
         <button class="icon-btn" id="sound-btn" onclick="game.toggleSound()" title="切換音效">🔊</button>
         <button class="icon-btn" onclick="game.goHome()" title="回到基地">🏠</button>
       </div>
@@ -935,9 +1323,34 @@
           <div class="hero-pilot" id="hero-pilot" onclick="game.mascotCheer()">🧟</div>
           <h1 class="hero-title" id="hero-title">特警隊員已裝備光線槍！除殭出擊！</h1>
           <p class="hero-desc" id="hero-desc">第一人稱 3D 殭屍步步逼近！瞄準殭屍胸前答案開火！三次抓傷機會由防彈血條呈現！</p>
-          <div class="mastered-stats-row">
-            <span class="mastered-pill" id="mastered-count-badge">✨ 已熟練掌握：0 題 (後續不重複出現)</span>
-            <button class="reset-mastered-btn" onclick="game.clearMasteredQuestions()">🔄 重置題庫記錄</button>
+          <!-- Player Profile & ID Login Bar -->
+          <div class="player-profile-card">
+            <div class="player-profile-main">
+              <div class="player-avatar-icon">🎖️</div>
+              <div class="player-info-text">
+                <div class="player-name-line">
+                  <span class="player-title-label">特警學員 ID：</span>
+                  <span class="player-id-name" id="current-player-name">特警一號</span>
+                  <button class="player-login-btn" onclick="openLoginModal()" title="登入或切換不同學員 ID">
+                    <span>👤</span> 登入 / 切換 ID
+                  </button>
+                  <button class="player-reset-btn" onclick="confirmResetCurrentPlayerRecord()" title="重置本學員的答題記錄">
+                    <span>🔄</span> 重置此 ID 記錄
+                  </button>
+                </div>
+                <div class="player-stats-line">
+                  <span class="mastered-pill" id="mastered-count-badge" title="若同樣題目連續答對2次，下次進行遊戲時就不會出現">
+                    🏆 連續答對2次 (精通排除)：<strong id="stat-mastered-num">0</strong> 題
+                  </span>
+                  <span class="streak-pill streak-1" id="streak-1-badge" title="再連續答對 1 次即可達成 2 次精通排除">
+                    ⚡ 連續答對 1 次 (差1次排除)：<strong id="stat-streak1-num">0</strong> 題
+                  </span>
+                  <span class="streak-pill streak-0" id="total-practiced-badge" title="本學員累計已練習題數" style="background: rgba(255, 255, 255, 0.08); border: 1px solid rgba(255, 255, 255, 0.2); color: #94A3B8;">
+                    📝 累計練習：<strong id="stat-total-num">0</strong> 題
+                  </span>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
 
@@ -1644,14 +2057,22 @@
        ===================================================================== */
     // Embedded 432 Google Sheet Questions Bank (Fallback & Standalone Guarantee)
     /* =====================================================================
-       0. GOOGLE SHEETS DYNAMIC CSV LOADER & RFC 4180 COMPLIANT PARSER
+       0. GOOGLE APPS SCRIPT (GAS) & GOOGLE SHEETS QUESTION LOADER
        ===================================================================== */
-    const GOOGLE_SHEETS_CONFIG = {
-      sheetId: '1QetCLW6afDNxsJCB8oD6IvYQc-ReItlkLn4lFSaSVYY',
+    const OFFICIAL_GAS_API_URL = 'https://script.google.com/macros/s/AKfycbxDg9cQ4ugN1epva2WJL0gyw61y3zHNTqP_pxg5ATWDDbPKE86OIxTnxaVIU5whPzzAqA/exec';
+    const GAS_CONFIG = {
+      // Google Apps Script Web App URL (預設直接寫入官方題庫網址，亦可由 localStorage 覆蓋)
+      apiUrl: localStorage.getItem('GAME_GAS_API_URL') || OFFICIAL_GAS_API_URL,
+      defaultUrl: OFFICIAL_GAS_API_URL,
+      fallbackSheetId: '1QetCLW6afDNxsJCB8oD6IvYQc-ReItlkLn4lFSaSVYY',
       tabs: [
         { name: '國文', key: 'chinese', gid: '0', lang: 'zh-TW', defaultGrade: 2 },
         { name: '英文', key: 'english', gid: '1518677184', lang: 'en-US', defaultGrade: 2 }
       ]
+    };
+    const GOOGLE_SHEETS_CONFIG = {
+      sheetId: GAS_CONFIG.fallbackSheetId,
+      tabs: GAS_CONFIG.tabs
     };
 
     // Embedded 432 Google Sheet Questions Bank (Default Standalone Guarantee)
@@ -1888,7 +2309,120 @@
     }
 
     /**
-     * Asynchronously fetch and parse Google Sheets questions with JSONP + Fetch dual redundancy
+     * Load questions from Google Apps Script Web App via JSONP (for file:/// and strict CORS environments)
+     */
+    function loadGASViaJSONP(url) {
+      return new Promise((resolve) => {
+        const callbackName = 'gasCallback_' + Math.floor(Math.random() * 1000000);
+        let cleaned = false;
+        let script = null;
+
+        const cleanup = () => {
+          if (cleaned) return;
+          cleaned = true;
+          try { delete window[callbackName]; } catch (e) { window[callbackName] = undefined; }
+          if (script && script.parentNode) script.parentNode.removeChild(script);
+        };
+
+        const timeout = setTimeout(() => {
+          cleanup();
+          resolve(null);
+        }, 9000);
+
+        window[callbackName] = function(data) {
+          clearTimeout(timeout);
+          cleanup();
+          resolve(data);
+        };
+
+        const sep = url.includes('?') ? '&' : '?';
+        script = document.createElement('script');
+        script.src = `${url}${sep}callback=${callbackName}&_t=${Date.now()}`;
+        script.onerror = () => {
+          clearTimeout(timeout);
+          cleanup();
+          resolve(null);
+        };
+        document.body.appendChild(script);
+      });
+    }
+
+    /**
+     * Process response received from Google Apps Script
+     */
+    function applyGasQuestionData(json) {
+      if (!json) return false;
+      let chinese = [];
+      let english = [];
+
+      // Structure 1: { status: 'success', data: { chinese: [...], english: [...] } }
+      if (json.data && (Array.isArray(json.data.chinese) || Array.isArray(json.data.english))) {
+        chinese = json.data.chinese || [];
+        english = json.data.english || [];
+      }
+      // Structure 2: { chinese: [...], english: [...] }
+      else if (Array.isArray(json.chinese) || Array.isArray(json.english)) {
+        chinese = json.chinese || [];
+        english = json.english || [];
+      }
+      // Structure 3: Array of question objects
+      else if (Array.isArray(json)) {
+        chinese = json.filter(q => q.subjectKey === 'chinese' || q.subject === '國文');
+        english = json.filter(q => q.subjectKey === 'english' || q.subject === '英文');
+      }
+      // Structure 4: { data: [ ... ] }
+      else if (json.data && Array.isArray(json.data)) {
+        chinese = json.data.filter(q => q.subjectKey === 'chinese' || q.subject === '國文');
+        english = json.data.filter(q => q.subjectKey === 'english' || q.subject === '英文');
+      }
+
+      if (chinese.length > 0 || english.length > 0) {
+        if (chinese.length > 0) window.EXTENDED_CHINESE_BANK = chinese;
+        if (english.length > 0) window.EXTENDED_ENGLISH_BANK = english;
+        window.ALL_SHEET_QUESTIONS = [...(window.EXTENDED_CHINESE_BANK || []), ...(window.EXTENDED_ENGLISH_BANK || [])];
+        console.log(`[Google Apps Script] 題庫套用成功！國文 ${chinese.length} 題，英文 ${english.length} 題`);
+        return true;
+      }
+      return false;
+    }
+
+    /**
+     * Fetch questions from Google Apps Script Web App
+     */
+    async function loadQuestionsFromGAS(customUrl) {
+      const url = (customUrl !== undefined) ? (customUrl || '').trim() : (GAS_CONFIG.apiUrl || '').trim();
+      if (!url) return { success: false, reason: 'no_url' };
+
+      // Method 1: Try fetch API
+      try {
+        const sep = url.includes('?') ? '&' : '?';
+        const fetchUrl = `${url}${sep}_t=${Date.now()}`;
+        const resp = await fetch(fetchUrl, { cache: 'no-cache' });
+        if (resp.ok) {
+          const data = await resp.json();
+          if (applyGasQuestionData(data)) {
+            return { success: true, source: 'Google Apps Script (Fetch)' };
+          }
+        }
+      } catch (e) {
+        console.warn('[GAS] Fetch 嘗試失敗，轉用 JSONP 備援：', e);
+      }
+
+      // Method 2: Try JSONP Fallback (for file:/// and strict CORS environments)
+      try {
+        const data = await loadGASViaJSONP(url);
+        if (applyGasQuestionData(data)) {
+          return { success: true, source: 'Google Apps Script (JSONP)' };
+        }
+      } catch (e) {
+        console.warn('[GAS] JSONP 嘗試失敗：', e);
+      }
+
+      return { success: false, reason: 'network_failed' };
+    }
+
+    /**
+     * Asynchronously fetch and parse Google Sheets questions with JSONP + Fetch dual redundancy (Fallback)
      */
     async function loadQuestionsFromCSV() {
       const sheetId = GOOGLE_SHEETS_CONFIG.sheetId;
@@ -1944,6 +2478,51 @@
 
       console.log(`【題庫更新完畢】國文 ${window.EXTENDED_CHINESE_BANK.length} 題，英文 ${window.EXTENDED_ENGLISH_BANK.length} 題`);
       return allQuestions;
+    }
+
+    /**
+     * Master Question Loader with 3-tier redundancy:
+     * Tier 1: Google Apps Script Web App (Fetch / JSONP)
+     * Tier 2: Direct Google Sheets GViz / CSV (JSONP / Fetch)
+     * Tier 3: Local Embedded Offline Question Bank
+     */
+    async function loadQuestions() {
+      let loadSource = '';
+
+      // 1. Try Google Apps Script if URL configured
+      if (GAS_CONFIG.apiUrl && GAS_CONFIG.apiUrl.trim()) {
+        const gasResult = await loadQuestionsFromGAS();
+        if (gasResult && gasResult.success) {
+          loadSource = gasResult.source || 'Google Apps Script';
+        }
+      }
+
+      // 2. Fallback to Google Sheets direct CSV / JSONP
+      if (!loadSource) {
+        try {
+          const sheetQuestions = await loadQuestionsFromCSV();
+          if (sheetQuestions && sheetQuestions.length > 0) {
+            loadSource = 'Google 試算表直連備援';
+          }
+        } catch (e) {
+          console.warn('[題庫備援] Google 試算表直連失敗：', e);
+        }
+      }
+
+      // 3. Fallback to local default bank
+      if (!loadSource && (!window.EXTENDED_CHINESE_BANK || window.EXTENDED_CHINESE_BANK.length === 0)) {
+        if (typeof DEFAULT_CHINESE_BANK !== 'undefined' && DEFAULT_CHINESE_BANK.length > 0) {
+          window.EXTENDED_CHINESE_BANK = DEFAULT_CHINESE_BANK;
+          loadSource = '本地內建備用題庫';
+        }
+      }
+
+      if (!loadSource) loadSource = '本地題庫';
+
+      const cCount = (window.EXTENDED_CHINESE_BANK || []).length;
+      const eCount = (window.EXTENDED_ENGLISH_BANK || []).length;
+      console.log(`【題庫載入完成】來源：${loadSource}，國文 ${cCount} 題，英文 ${eCount} 題`);
+      return { success: true, source: loadSource, chineseCount: cCount, englishCount: eCount };
     }
 
     function getChineseBank() {
@@ -4850,24 +5429,21 @@ drawFirstPersonGun(w, h) {
         // Current wave wrong attempts tracker
         this.currentWaveErrors = 0;
 
-        // Mastered questions storage (答對過的題目，之後關卡不再出現)
-        this.masteredQuestions = new Set();
-        try {
-          const saved = localStorage.getItem('soukyu_mastered_questions');
-          if (saved) {
-            this.masteredQuestions = new Set(JSON.parse(saved));
-          }
-        } catch (e) {}
-
         // Timer interval & auto-advance timer
         this.timerInterval = null;
         this.autoNextTimeout = null;
         this.elapsedMs = 0;
         this.totalMs = 0;
 
+        // User & ID Record Management System
+        this.currentUserId = localStorage.getItem('soukyu_current_user_id') || '特警一號';
+        this.currentUserData = null;
+        this.masteredQuestions = new Set();
+        this.loadCurrentUserData();
+
         // Initialize UI synchronously
         this.setGameType(this.gameType, false);
-        this.updateMasteredUI();
+        this.updateUserUI();
       }
 
       setGameType(type, playSound = true) {
@@ -4914,32 +5490,199 @@ drawFirstPersonGun(w, h) {
       }
 
       getQuestionKey(q) {
-        return `${q.grade || 2}_${q.subjectKey || 'ch'}_${(q.question || '').trim()}`;
+        if (!q) return '';
+        const g = q.grade || (q.grades && q.grades[0]) || 2;
+        const s = q.subjectKey || 'ch';
+        const txt = (q.question || '').trim();
+        return `${g}_${s}_${txt}`;
       }
 
-      markQuestionMastered(q) {
-        if (!q) return;
+      getCurrentUserId() {
+        return this.currentUserId || localStorage.getItem('soukyu_current_user_id') || '特警一號';
+      }
+
+      getUserList() {
+        try {
+          const list = JSON.parse(localStorage.getItem('soukyu_user_list') || '[]');
+          if (Array.isArray(list) && list.length > 0) return list;
+        } catch (e) {}
+        return ['特警一號'];
+      }
+
+      setCurrentUserId(newId) {
+        const cleanId = (newId || '').trim();
+        if (!cleanId) return;
+        this.currentUserId = cleanId;
+        localStorage.setItem('soukyu_current_user_id', cleanId);
+
+        const list = this.getUserList();
+        if (!list.includes(cleanId)) {
+          list.push(cleanId);
+          localStorage.setItem('soukyu_user_list', JSON.stringify(list));
+        }
+
+        this.loadCurrentUserData();
+        this.updateUserUI();
+      }
+
+      deleteUser(targetId) {
+        const list = this.getUserList().filter(id => id !== targetId);
+        if (list.length === 0) list.push('特警一號');
+        localStorage.setItem('soukyu_user_list', JSON.stringify(list));
+        try {
+          localStorage.removeItem(`soukyu_user_data_${encodeURIComponent(targetId)}`);
+        } catch (e) {}
+
+        if (this.currentUserId === targetId) {
+          this.setCurrentUserId(list[0]);
+        }
+      }
+
+      loadCurrentUserData() {
+        const uid = this.getCurrentUserId();
+        const storageKey = `soukyu_user_data_${encodeURIComponent(uid)}`;
+        let loaded = false;
+        try {
+          const raw = localStorage.getItem(storageKey);
+          if (raw) {
+            this.currentUserData = JSON.parse(raw);
+            if (!this.currentUserData.records) this.currentUserData.records = {};
+            loaded = true;
+          }
+        } catch (e) {}
+
+        if (!loaded) {
+          this.currentUserData = {
+            userId: uid,
+            createdAt: Date.now(),
+            lastActive: Date.now(),
+            records: {}
+          };
+          // Migrate old single-user mastered questions if present
+          try {
+            const oldMastered = localStorage.getItem('soukyu_mastered_questions');
+            if (oldMastered) {
+              const oldKeys = JSON.parse(oldMastered);
+              if (Array.isArray(oldKeys)) {
+                for (const k of oldKeys) {
+                  this.currentUserData.records[k] = {
+                    consecutiveCorrect: 3,
+                    totalCorrect: 3,
+                    totalWrong: 0,
+                    mastered: true,
+                    masteredAt: Date.now()
+                  };
+                }
+              }
+            }
+          } catch (e) {}
+          this.saveCurrentUserData();
+        }
+
+        this.masteredQuestions = new Set(
+          Object.keys(this.currentUserData.records).filter(k => {
+            const r = this.currentUserData.records[k];
+            return r && r.consecutiveCorrect >= 2;
+          })
+        );
+      }
+
+      saveCurrentUserData() {
+        if (!this.currentUserData || !this.currentUserData.userId) return;
+        this.currentUserData.lastActive = Date.now();
+        const storageKey = `soukyu_user_data_${encodeURIComponent(this.currentUserData.userId)}`;
+        try {
+          localStorage.setItem(storageKey, JSON.stringify(this.currentUserData));
+        } catch (e) {}
+
+        this.masteredQuestions = new Set(
+          Object.keys(this.currentUserData.records).filter(k => {
+            const r = this.currentUserData.records[k];
+            return r && r.consecutiveCorrect >= 2;
+          })
+        );
+      }
+
+      isQuestionMastered(q) {
+        if (!q || !this.currentUserData || !this.currentUserData.records) return false;
         const key = this.getQuestionKey(q);
-        this.masteredQuestions.add(key);
-        try {
-          localStorage.setItem('soukyu_mastered_questions', JSON.stringify(Array.from(this.masteredQuestions)));
-        } catch (e) {}
-        this.updateMasteredUI();
+        const rec = this.currentUserData.records[key];
+        return rec ? (rec.consecutiveCorrect >= 2) : false;
       }
 
-      clearMasteredQuestions() {
-        this.masteredQuestions.clear();
-        try {
-          localStorage.removeItem('soukyu_mastered_questions');
-        } catch (e) {}
-        this.updateMasteredUI();
-        this.showToast('✅ 已重置答對題庫紀錄，所有題目重新開放挑戰！');
+      recordQuestionAnswer(q, isCleanCorrect) {
+        if (!q || !this.currentUserData) return null;
+        const key = this.getQuestionKey(q);
+        if (!this.currentUserData.records[key]) {
+          this.currentUserData.records[key] = {
+            consecutiveCorrect: 0,
+            totalCorrect: 0,
+            totalWrong: 0,
+            mastered: false
+          };
+        }
+        const rec = this.currentUserData.records[key];
+        if (isCleanCorrect) {
+          rec.consecutiveCorrect = (rec.consecutiveCorrect || 0) + 1;
+          rec.totalCorrect = (rec.totalCorrect || 0) + 1;
+          if (rec.consecutiveCorrect >= 2) {
+            rec.mastered = true;
+            rec.masteredAt = Date.now();
+          }
+        } else {
+          // 連續答對中斷歸零！
+          rec.consecutiveCorrect = 0;
+          rec.totalWrong = (rec.totalWrong || 0) + 1;
+          rec.mastered = false;
+        }
+        this.saveCurrentUserData();
+        this.updateUserUI();
+        return rec;
       }
 
-      updateMasteredUI() {
-        const el = document.getElementById('mastered-count-badge');
-        if (el) {
-          el.textContent = `✨ 已熟練掌握：${this.masteredQuestions.size} 題 (後續不重複出現)`;
+      resetCurrentUserRecords() {
+        if (!this.currentUserData) return;
+        const uid = this.getCurrentUserId();
+        this.currentUserData.records = {};
+        this.saveCurrentUserData();
+        this.updateUserUI();
+        this.showToast(`🔄 已重置學員【${uid}】的所有答題記錄！所有題目重新開放挑戰！`);
+      }
+
+      updateUserUI() {
+        const uid = this.getCurrentUserId();
+        const pNameEl = document.getElementById('current-player-name');
+        if (pNameEl) pNameEl.textContent = uid;
+        const headerUserEl = document.getElementById('header-user-name');
+        if (headerUserEl) headerUserEl.textContent = uid;
+
+        let masteredCount = 0;
+        let streak1Count = 0;
+        let totalCount = 0;
+
+        if (this.currentUserData && this.currentUserData.records) {
+          for (const k in this.currentUserData.records) {
+            const r = this.currentUserData.records[k];
+            if (!r) continue;
+            totalCount++;
+            if (r.consecutiveCorrect >= 2) {
+              masteredCount++;
+            } else if (r.consecutiveCorrect === 1) {
+              streak1Count++;
+            }
+          }
+        }
+
+        const statMasteredEl = document.getElementById('stat-mastered-num');
+        if (statMasteredEl) statMasteredEl.textContent = masteredCount;
+        const statStreak1El = document.getElementById('stat-streak1-num');
+        if (statStreak1El) statStreak1El.textContent = streak1Count;
+        const statTotalEl = document.getElementById('stat-total-num');
+        if (statTotalEl) statTotalEl.textContent = totalCount;
+
+        const oldBadge = document.getElementById('mastered-count-badge');
+        if (oldBadge) {
+          oldBadge.innerHTML = `🏆 連續答對2次 (精通排除)：<strong id="stat-mastered-num">${masteredCount}</strong> 題`;
         }
       }
 
@@ -5095,15 +5838,10 @@ drawFirstPersonGun(w, h) {
             matching = rawChinese;
           }
 
-          let unmastered = matching.filter(q => !this.masteredQuestions.has(this.getQuestionKey(q)));
+          let unmastered = matching.filter(q => !this.isQuestionMastered(q));
           if (unmastered.length === 0 && matching.length > 0) {
-            this.showToast('🎉 國語題目已全數精通！自動循環重置題庫！');
-            matching.forEach(q => this.masteredQuestions.delete(this.getQuestionKey(q)));
-            try {
-              localStorage.setItem('soukyu_mastered_questions', JSON.stringify(Array.from(this.masteredQuestions)));
-            } catch (e) {}
+            this.showToast('🎉 本單元題目已全數連續答對 2 次達成精通！自動重新循環開放練習！');
             unmastered = matching;
-            this.updateMasteredUI();
           }
 
           // Build unique candidate questions (NO DUPLICATES within a session!)
@@ -5152,15 +5890,10 @@ drawFirstPersonGun(w, h) {
             matching = rawEnglish;
           }
 
-          let unmastered = matching.filter(q => !this.masteredQuestions.has(this.getQuestionKey(q)));
+          let unmastered = matching.filter(q => !this.isQuestionMastered(q));
           if (unmastered.length === 0 && matching.length > 0) {
-            this.showToast('🎉 英語題目已全數精通！自動循環重置題庫！');
-            matching.forEach(q => this.masteredQuestions.delete(this.getQuestionKey(q)));
-            try {
-              localStorage.setItem('soukyu_mastered_questions', JSON.stringify(Array.from(this.masteredQuestions)));
-            } catch (e) {}
+            this.showToast('🎉 本單元英語題目已全數連續答對 2 次達成精通！自動重新循環開放練習！');
             unmastered = matching;
-            this.updateMasteredUI();
           }
 
           let pool = this.shuffle([...unmastered]);
@@ -5200,7 +5933,7 @@ drawFirstPersonGun(w, h) {
             ? ['chinese', 'english', 'math'][Math.floor(Math.random() * 3)]
             : mode;
           const dynQ = generateDynamicQuestion(randGrade, randSubject);
-          if (!this.masteredQuestions.has(this.getQuestionKey(dynQ)) || fallbackAttempts > 50) {
+          if (!this.isQuestionMastered(dynQ) || fallbackAttempts > 50) {
             finalQuestions.push(dynQ);
           }
         }
@@ -5317,6 +6050,8 @@ drawFirstPersonGun(w, h) {
         this.updateHUDStats();
 
         const q = this.questions[this.currentIndex];
+        // 超時或遭到攻擊中斷連續答對次數
+        this.recordQuestionAnswer(q, false);
 
         // 記錄撞擊/撲襲錯題以供結尾複習
         this.recordWrongQuestion(q, (this.gameType === 'fps' ? `【殭屍撲襲】超時未擊殺，特警防禦受損！` : `【敵機撞擊】超時未擊破，裝甲受損！`) + q.explanation);
@@ -5357,7 +6092,9 @@ drawFirstPersonGun(w, h) {
           this.stopTimer();
           window.speechSynthesis.cancel();
 
-          this.markQuestionMastered(q);
+          // 只有當本波次完全零失誤 (一次猜對) 才計入連續答對！
+          const isClean = (this.currentWaveErrors === 0);
+          const rec = this.recordQuestionAnswer(q, isClean);
 
           if (this.currentWaveErrors > 0) {
             this.recordWrongQuestion(q, `【曾答錯 ${this.currentWaveErrors} 次】經再次射擊後擊破！${q.explanation}`);
@@ -5389,7 +6126,19 @@ drawFirstPersonGun(w, h) {
               ? `黃武連環擊中！COMBO x${this.combo}！`
               : '目標擊破！精準射擊！';
           }
-          document.getElementById('fb-desc').textContent = `${q.explanation}（自動跳關中...）`;
+          let streakHint = '';
+          if (rec) {
+            if (rec.consecutiveCorrect >= 2) {
+              streakHint = ' 🏆【連續答對 2 次！達成精通，下次測驗不再出現】';
+            } else if (rec.consecutiveCorrect === 1) {
+              streakHint = ' ⚡【連續答對 1 次！再答對 1 次即可精通排除】';
+            } else {
+              streakHint = ' 📝【此前曾失誤，連續次數重新起算】';
+            }
+          }
+
+
+          document.getElementById('fb-desc').textContent = `${q.explanation}${streakHint}（自動跳關中...）`;
           fbBanner.style.display = 'flex';
 
           // Automatic advance to next wave after 800ms
@@ -5405,6 +6154,8 @@ drawFirstPersonGun(w, h) {
           this.currentWaveErrors++;
           this.combo = 0;
           this.updateHUDStats();
+          // 答錯中斷連續答對次數
+          this.recordQuestionAnswer(q, false);
 
           if (this.currentWaveErrors < 2) {
             if (this.gameType === 'fps') {
@@ -5603,7 +6354,7 @@ drawFirstPersonGun(w, h) {
       }
     }
 
-    // Lifecycle Manager: Ensures CSV is fully downloaded & parsed BEFORE game initialization
+    // Lifecycle Manager: Ensures questions are fully loaded BEFORE game initialization
     let isGameBooted = false;
     async function bootGame() {
       if (isGameBooted) return;
@@ -5611,11 +6362,12 @@ drawFirstPersonGun(w, h) {
 
       const statusEl = document.getElementById('sheet-loading-indicator');
       if (statusEl) {
-        statusEl.innerHTML = '<span>📡</span> 正在從 Google Sheets 動態載入最新雲端題庫 (國文 & 英文)...';
+        statusEl.innerHTML = '<span>📡</span> 正在載入雲端題庫 (Google Apps Script)...';
       }
 
+      let loadResult = null;
       try {
-        await loadQuestionsFromCSV();
+        loadResult = await loadQuestions();
       } catch (err) {
         console.error('動態載入題庫失敗：', err);
       }
@@ -5630,22 +6382,245 @@ drawFirstPersonGun(w, h) {
         statusEl.style.background = 'rgba(16, 185, 129, 0.18)';
         statusEl.style.borderColor = '#10B981';
         statusEl.style.color = '#34D399';
-        statusEl.innerHTML = `<span>✅</span> 雲端題庫動態載入完成！(國文 ${cCount} 題・英文 ${eCount} 題)`;
+        const srcTag = (loadResult && loadResult.source) ? ` [${loadResult.source}]` : '';
+        statusEl.innerHTML = `<span>✅</span> 雲端題庫載入完成！${srcTag} (國文 ${cCount} 題・英文 ${eCount} 題) <span style="font-size:11px;opacity:0.85;margin-left:4px;">[⚙️ 設定]</span>`;
         setTimeout(() => {
           statusEl.style.opacity = '0';
           setTimeout(() => { statusEl.style.display = 'none'; }, 400);
-        }, 3200);
+        }, 4000);
       }
+
+      updateUIQuestionCounts();
+    }
+
+    // Google Apps Script Modal Dialog Functions
+    function openGasModal() {
+      const modal = document.getElementById('gas-config-modal');
+      const input = document.getElementById('gas-url-input');
+      const statusBox = document.getElementById('gas-modal-status');
+      if (input) {
+        input.value = GAS_CONFIG.apiUrl || localStorage.getItem('GAME_GAS_API_URL') || '';
+      }
+      if (statusBox) {
+        statusBox.style.display = 'none';
+        statusBox.innerHTML = '';
+      }
+      if (modal) {
+        modal.classList.add('active');
+      }
+    }
+
+    function closeGasModal() {
+      const modal = document.getElementById('gas-config-modal');
+      if (modal) {
+        modal.classList.remove('active');
+      }
+    }
+
+    async function saveAndTestGasUrl() {
+      const input = document.getElementById('gas-url-input');
+      const statusBox = document.getElementById('gas-modal-status');
+      const saveBtn = document.getElementById('gas-save-btn');
+      const url = (input ? input.value : '').trim();
+
+      if (!url) {
+        statusBox.style.display = 'block';
+        statusBox.className = 'gas-status-box error';
+        statusBox.innerHTML = '⚠️ 請輸入 Google Apps Script 網路應用程式網址！';
+        return;
+      }
+
+      if (!url.startsWith('https://script.google.com/')) {
+        statusBox.style.display = 'block';
+        statusBox.className = 'gas-status-box error';
+        statusBox.innerHTML = '⚠️ 網址需為 Google Apps Script 網址，通常為 <code>https://script.google.com/macros/s/.../exec</code>！';
+        return;
+      }
+
+      saveBtn.disabled = true;
+      saveBtn.innerHTML = '<span>⏳</span> 連線測試中...';
+      statusBox.style.display = 'block';
+      statusBox.className = 'gas-status-box loading';
+      statusBox.innerHTML = '📡 正在連線至 Google Apps Script 撈取題庫，請稍候...';
+
+      try {
+        const gasResult = await loadQuestionsFromGAS(url);
+        if (gasResult && gasResult.success) {
+          localStorage.setItem('GAME_GAS_API_URL', url);
+          GAS_CONFIG.apiUrl = url;
+          const cCount = (window.EXTENDED_CHINESE_BANK || []).length;
+          const eCount = (window.EXTENDED_ENGLISH_BANK || []).length;
+          statusBox.className = 'gas-status-box success';
+          statusBox.innerHTML = `✅ 連線成功！已儲存設定。成功讀取：國文 ${cCount} 題、英文 ${eCount} 題 (來源：${gasResult.source})！`;
+
+          updateUIQuestionCounts();
+          if (window.game && typeof window.game.showToast === 'function') {
+            window.game.showToast(`🎉 Google Apps Script 題庫同步成功！共 ${cCount + eCount} 題！`);
+          }
+        } else {
+          statusBox.className = 'gas-status-box error';
+          statusBox.innerHTML = '❌ 連線失敗：無法從該網址取得題庫資料。<br>請確認：<br>1. 是否已將 GAS 部署為「網路應用程式」<br>2. 誰可以存取是否設定為「任何人 (Anyone)」<br>3. 網址結尾是否為 <code>/exec</code>';
+        }
+      } catch (err) {
+        statusBox.className = 'gas-status-box error';
+        statusBox.innerHTML = `❌ 連線發生錯誤：${err.message || err}`;
+      } finally {
+        saveBtn.disabled = false;
+        saveBtn.innerHTML = '<span>⚡</span> 測試連線並儲存';
+      }
+    }
+
+    async function clearGasUrl() {
+      localStorage.removeItem('GAME_GAS_API_URL');
+      GAS_CONFIG.apiUrl = OFFICIAL_GAS_API_URL;
+      const input = document.getElementById('gas-url-input');
+      if (input) input.value = OFFICIAL_GAS_API_URL;
+      const statusBox = document.getElementById('gas-modal-status');
+      if (statusBox) {
+        statusBox.style.display = 'block';
+        statusBox.className = 'gas-status-box';
+        statusBox.style.background = 'rgba(255, 255, 255, 0.08)';
+        statusBox.style.color = '#CBD5E1';
+        statusBox.innerHTML = '🔄 已恢復預設官方 Google Apps Script 題庫網址，正在重新載入題庫...';
+      }
+      await loadQuestions();
+      updateUIQuestionCounts();
+      if (statusBox) {
+        statusBox.innerHTML = `✅ 已恢復官方 GAS 題庫 (國文 ${(window.EXTENDED_CHINESE_BANK || []).length} 題、英文 ${(window.EXTENDED_ENGLISH_BANK || []).length} 題)！`;
+      }
+    }
+
+    function updateUIQuestionCounts() {
+      const cCount = (window.EXTENDED_CHINESE_BANK || []).length;
+      const eCount = (window.EXTENDED_ENGLISH_BANK || []).length;
 
       const cDesc = document.querySelector('.subject-btn.chinese .sub-desc');
       if (cDesc) {
-        cDesc.textContent = `動態讀取 Google 試算表最新 ${(window.EXTENDED_CHINESE_BANK || []).length} 題課文精選！`;
+        cDesc.textContent = `動態讀取雲端題庫最新 ${cCount} 題課文精選！`;
       }
       const eDesc = document.querySelector('.subject-btn.english .sub-desc');
       if (eDesc) {
-        eDesc.textContent = `動態讀取 Google 試算表最新 ${(window.EXTENDED_ENGLISH_BANK || []).length} 題生活單字！`;
+        eDesc.textContent = `動態讀取雲端題庫最新 ${eCount} 題生活單字！`;
       }
     }
+
+    // Player ID Login & Switch Dialog Functions
+    function openLoginModal() {
+      const modal = document.getElementById('player-login-modal');
+      const input = document.getElementById('player-id-input');
+      const curId = (window.game && window.game.getCurrentUserId) ? window.game.getCurrentUserId() : '特警一號';
+      if (input) {
+        input.value = curId;
+      }
+      renderSavedUserChips();
+      if (modal) {
+        modal.classList.add('active');
+        setTimeout(() => { if (input) input.focus(); }, 100);
+      }
+    }
+
+    function closeLoginModal() {
+      const modal = document.getElementById('player-login-modal');
+      if (modal) modal.classList.remove('active');
+    }
+
+    function renderSavedUserChips() {
+      const listEl = document.getElementById('saved-users-list');
+      if (!listEl || !window.game) return;
+      const list = window.game.getUserList();
+      const curId = window.game.getCurrentUserId();
+
+      listEl.innerHTML = '';
+      list.forEach(uid => {
+        const chip = document.createElement('div');
+        chip.className = `user-chip ${uid === curId ? 'active' : ''}`;
+        chip.innerHTML = `<span>👤 ${uid}</span>${list.length > 1 ? `<span class="del-btn" title="刪除此 ID 記錄" onclick="removeUserChip('${uid}', event)">✕</span>` : ''}`;
+        chip.onclick = (e) => {
+          if (e.target.classList.contains('del-btn')) return;
+          selectUserChip(uid);
+        };
+        listEl.appendChild(chip);
+      });
+    }
+
+    function selectUserChip(uid) {
+      if (window.game) {
+        window.game.setCurrentUserId(uid);
+        if (window.game.showToast) {
+          window.game.showToast(`🎉 已切換學員為【${uid}】！已載入您的專屬學習進度！`);
+        }
+      }
+      closeLoginModal();
+    }
+
+    function removeUserChip(uid, event) {
+      if (event) event.stopPropagation();
+      if (confirm(`確定要刪除學員【${uid}】及其所有答題紀錄嗎？`)) {
+        if (window.game) {
+          window.game.deleteUser(uid);
+          renderSavedUserChips();
+        }
+      }
+    }
+
+    function submitPlayerLogin() {
+      const input = document.getElementById('player-id-input');
+      const uid = (input ? input.value : '').trim();
+      if (!uid) {
+        alert('請輸入學員 ID 或姓名！');
+        return;
+      }
+      if (window.game) {
+        window.game.setCurrentUserId(uid);
+        if (window.game.showToast) {
+          window.game.showToast(`🎉 歡迎【${uid}】！已載入您的專屬學習記錄！`);
+        }
+      }
+      closeLoginModal();
+    }
+
+    // Reset Confirmation Dialog Functions
+    function confirmResetCurrentPlayerRecord() {
+      const modal = document.getElementById('reset-confirm-modal');
+      const nameEl = document.getElementById('reset-modal-username');
+      const curId = (window.game && window.game.getCurrentUserId) ? window.game.getCurrentUserId() : '特警一號';
+      if (nameEl) nameEl.textContent = `【${curId}】`;
+      if (modal) modal.classList.add('active');
+    }
+
+    function closeResetModal() {
+      const modal = document.getElementById('reset-confirm-modal');
+      if (modal) modal.classList.remove('active');
+    }
+
+    function executeResetPlayerRecord() {
+      if (window.game && window.game.resetCurrentUserRecords) {
+        window.game.resetCurrentUserRecords();
+      }
+      closeResetModal();
+    }
+
+    // Modal event listeners
+    document.addEventListener('click', (e) => {
+      const gasModal = document.getElementById('gas-config-modal');
+      const loginModal = document.getElementById('player-login-modal');
+      const resetModal = document.getElementById('reset-confirm-modal');
+      if (gasModal && e.target === gasModal) closeGasModal();
+      if (loginModal && e.target === loginModal) closeLoginModal();
+      if (resetModal && e.target === resetModal) closeResetModal();
+    });
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') {
+        closeGasModal();
+        closeLoginModal();
+        closeResetModal();
+      }
+    });
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') {
+        closeGasModal();
+      }
+    });
 
     // Boot lifecycle on load
     if (document.readyState === 'loading') {
@@ -5655,5 +6630,225 @@ drawFirstPersonGun(w, h) {
     }
     window.addEventListener('load', bootGame);
   </script>
+
+  <!-- Player ID Login Modal -->
+
+  <div id="player-login-modal" class="gas-modal-overlay">
+
+    <div class="gas-modal-card" style="max-width: 500px;">
+
+      <div class="gas-modal-header">
+
+        <div class="gas-modal-title">
+
+          <span>👤</span>
+
+          <span>特警隊員 / 學員 ID 登入</span>
+
+        </div>
+
+        <button class="gas-modal-close" onclick="closeLoginModal()">✕</button>
+
+      </div>
+
+
+
+      <div class="gas-modal-body">
+
+        <p class="gas-modal-desc">
+
+          登入專屬學員 ID 後，系統將獨立記錄每題的答題紀錄。<br>
+
+          <strong style="color: #00F5D4;">✨ 同樣題目若連續答對 2 次，下次遊戲時將自動排除</strong>，不必重複練習已精通題目！
+
+        </p>
+
+
+
+        <div class="gas-field-group">
+
+          <label class="gas-field-label" for="player-id-input">輸入學員 ID / 姓名：</label>
+
+          <input
+
+            type="text"
+
+            id="player-id-input"
+
+            class="gas-input"
+
+            placeholder="例如：小明、Amy、05號、Ray"
+
+            maxlength="20"
+
+            autocomplete="off"
+
+          />
+
+        </div>
+
+
+
+        <!-- Saved User Chips for Quick One-Click Switch -->
+
+        <div class="gas-field-group" id="saved-users-container" style="margin-top: 4px;">
+
+          <label class="gas-field-label" style="font-size:12px; color:#94A3B8;">已儲存的學員 (點選快速切換)：</label>
+
+          <div id="saved-users-list" style="display:flex; flex-wrap:wrap; gap:8px; margin-top:4px;"></div>
+
+        </div>
+
+
+
+        <div class="gas-action-row" style="margin-top: 10px;">
+
+          <button class="gas-btn gas-btn-primary" onclick="submitPlayerLogin()">
+
+            <span>🚀</span> 確定登入 / 建立 ID
+
+          </button>
+
+          <button class="gas-btn gas-btn-secondary" onclick="closeLoginModal()">
+
+            <span>✕</span> 取消
+
+          </button>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+
+
+  <!-- Reset Confirmation Modal -->
+
+  <div id="reset-confirm-modal" class="gas-modal-overlay">
+
+    <div class="gas-modal-card" style="max-width: 480px;">
+
+      <div class="gas-modal-header">
+
+        <div class="gas-modal-title" style="color: #EF4444;">
+
+          <span>⚠️</span>
+
+          <span>重置學員學習記錄確認</span>
+
+        </div>
+
+        <button class="gas-modal-close" onclick="closeResetModal()">✕</button>
+
+      </div>
+
+
+
+      <div class="gas-modal-body">
+
+        <p class="gas-modal-desc" style="color: #E2E8F0; font-size: 15px;">
+
+          您確定要重置學員 <strong id="reset-modal-username" style="color:#FCD34D;">【特警一號】</strong> 的所有答題記錄嗎？
+
+        </p>
+
+        <div style="background: rgba(239, 68, 68, 0.1); border: 1px solid rgba(239, 68, 68, 0.35); border-radius: 12px; padding: 12px 14px; font-size: 13px; color: #FCA5A5; line-height: 1.6;">
+
+          ⚠️ <strong>重置後將：</strong><br>
+
+          • 清除所有題目的連續答對次數 (全部歸零)<br>
+
+          • 解除「已連續答對2次精通排除」狀態<br>
+
+          • 所有題目將重新回到遊戲中開放作答
+
+        </div>
+
+
+
+        <div class="gas-action-row" style="margin-top: 12px;">
+
+          <button class="gas-btn" style="background: linear-gradient(135deg, #EF4444, #DC2626); color: #FFF; font-weight: 800;" onclick="executeResetPlayerRecord()">
+
+            <span>🔄</span> 確定重置本 ID 記錄
+
+          </button>
+
+          <button class="gas-btn gas-btn-secondary" onclick="closeResetModal()">
+
+            <span>✕</span> 取消
+
+          </button>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+
+
+  <!-- Google Apps Script API Configuration Modal -->
+  <div id="gas-config-modal" class="gas-modal-overlay">
+    <div class="gas-modal-card">
+      <div class="gas-modal-header">
+        <div class="gas-modal-title">
+          <span>⚙️</span>
+          <span>Google Apps Script 題庫連線設定</span>
+        </div>
+        <button class="gas-modal-close" onclick="closeGasModal()">✕</button>
+      </div>
+
+      <div class="gas-modal-body">
+        <p class="gas-modal-desc">
+          遊戲支援直接透過 Google Apps Script (GAS) 網路應用程式讀取 Google 試算表題庫，更新試算表後免重新整理立即生效！
+        </p>
+
+        <div class="gas-field-group">
+          <label class="gas-field-label" for="gas-url-input">Google Apps Script Web App 網址：</label>
+          <input
+            type="url"
+            id="gas-url-input"
+            class="gas-input"
+            placeholder="https://script.google.com/macros/s/.../exec"
+            autocomplete="off"
+            spellcheck="false"
+          />
+        </div>
+
+        <div id="gas-modal-status" class="gas-status-box" style="display:none;"></div>
+
+        <div class="gas-action-row">
+          <button class="gas-btn gas-btn-primary" id="gas-save-btn" onclick="saveAndTestGasUrl()">
+            <span>⚡</span> 測試連線並儲存
+          </button>
+          <button class="gas-btn gas-btn-secondary" onclick="clearGasUrl()">
+            <span>🔄</span> 清除設定 (使用預設)
+          </button>
+        </div>
+
+        <div class="gas-guide-box">
+          <div class="gas-guide-title">📖 如何取得 Google Apps Script 網址？</div>
+          <ol class="gas-guide-list">
+            <li>打開 Google 題庫試算表，點選上方選單<strong>「擴充功能」</strong> &gt; <strong>「Apps Script」</strong>。</li>
+            <li>將專案中的 <code>google_apps_script.js</code> 程式碼整份貼入。</li>
+            <li>點擊右上角<strong>「部署」</strong> &gt; <strong>「新部署」</strong>。</li>
+            <li>類型選擇<strong>「網路應用程式」</strong>：
+              <ul>
+                <li>執行身分：<strong>我 (Me)</strong></li>
+                <li>誰可以存取：<strong>任何人 (Anyone)</strong></li>
+              </ul>
+            </li>
+            <li>點擊「部署」，完成授權後複製<strong>「網址」</strong>（以 <code>/exec</code> 結尾），貼入上方並點選「測試連線並儲存」即可！</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+  </div>
 </body>
 </html>
